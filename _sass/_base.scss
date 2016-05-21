@@ -23,6 +23,7 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    text-align: justify;
 }
 
 
@@ -150,6 +151,21 @@ pre {
     }
 }
 
+
+
+/**
+ * Two column support
+ */
+.floatRight {
+  float:right;
+  margin:1em;
+}
+
+
+
+.justifiedText {
+  text-align: justify;
+}
 
 
 /**

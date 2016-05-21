@@ -43,6 +43,14 @@ $on-laptop:        800px;
     }
 }
 
+@mixin media-query($device) {
+    @media screen and (max-width: 767px) {
+        @content;
+        .floatRight {width:97%;}
+        .smallerImageOnPhone {width:50%;}
+    }
+}
+
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

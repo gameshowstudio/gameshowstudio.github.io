@@ -5,6 +5,8 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    padding-bottom: 8px;
+    padding-top: 8px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -35,6 +37,7 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        vertical-align: bottom;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -139,6 +142,11 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.footer-legal {
+    font-size: 11px;
+    color: $grey-color;
 }
 
 @include media-query($on-laptop) {
