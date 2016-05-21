@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: About Us
+nav_menu_title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Game Show Studio, LLC crafts apps for iOS devices. A single developer, Tim Fether, developed the two apps the company offers, [Game Show Studio](/) and [Tic-tac-toe Expanded](http://tictactoe.gameshowstudioapp.com/). Tim’s brother, Alex, led up some of the design work for Game Show Studio, and is the artist behind many of the sound effects and music tracks heard in the app.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can get in touch by sending an email to [tim@gameshowstudioapp.com](tim@gameshowstudioapp.com).
