@@ -10,7 +10,7 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 ## Resources
 
 * [Demonstration Video](https://youtu.be/0eBBkWw2kg0) (1 minute, also embedded below)
-* [App Icon (1024 x 1024)](/images/gssIconRound1024.png)
+* [App Icon (1024 x 1024)](/images/press/gssIconRound1024.png)
 * [Logo (1024 x 312)](/images/press/logoWithText1024x312.jpg)
 * [Image of multiple devices connected during game in progress](/images/press/hostAndPlayers2208.png)
 * [Image of host connected to Apple TV](/images/press/hostAndTV1669.png)
