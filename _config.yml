@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Be the host of your own trivia game in your very own Game Show Studio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.gameshowstudioapp.com" # the base hostname & protocol for your site
-repository: staging/area
+repository: gameshowstudio/gameshowstudio.github.io
 
 # Build settings
 markdown: kramdown
