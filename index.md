@@ -51,16 +51,6 @@ Other customizable features include:
 * The amount of time a player has to answer a question after buzzing in, and
 * The color of each team (represented both on the host’s device and on an optional external display).
 
-# Number of devices
-
-Game Show Studio officially supports up to five player devices connected to a host in Bluetooth LE mode. Since each device enables up to four people to play, up to 20 players are officially supported. It is likely that more devices would be able to connect (so the app enables connection attempts to more than five player devices), but doing so has not been thoroughly tested.
-
-If the compatibility networking mode is used (to support devices that do not have Bluetooth LE, such as iPad 2), Game Show Studio officially supports a host connecting to up to four player devices.
-
-# What's Included
-
-This app includes everything you need to create an immersive game show experience, as described above. It does not, however, include any trivia or academic questions. This allows hosts to use any questions they want. Questions can be found from an existing trivia source (there are many available as board games, including themed trivia), or teachers can use academic materials if they wish to use the app in their classrooms. A host can prepare themed trivia for a New Year’s party or a bridal shower. There are many exciting possibilities for question themes.
-
 # Cost
 
 Downloading Game Show Studio is free. Players can join games for free. In order to support the developer of the app, hosting a game requires an In-App Purchase. You will have an opportunity to try all the hosting features before you buy, including connecting to players, playing sounds/music, allowing players to buzz in, and connecting to an external display. And if you decide you want to host a full game, only you have to make the purchase; your friends can download the app on their devices and connect to your game for free.
