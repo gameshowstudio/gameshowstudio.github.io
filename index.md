@@ -5,7 +5,7 @@ layout: default
 # Game Show Studio
 
 {: .floatRight}
-{% include youtube-player.html id="0eBBkWw2kg0" %}
+{% include youtube-player.html id="8EqQc93Jzaw" %}
 
 Game Show Studio lets you host your own trivia game show in your home, classroom, or workplace. It gives you everything you need to put on a stunning and interactive show, including sound effects, graphics that can be displayed on a television, and an easy way for players to buzz in wirelessly using their iOS devices. All you need to do is gather up some trivia questions you would like to ask (from an existing trivia game, your classroom materials, or online) and get the app, then you’ll be ready to play.
 
