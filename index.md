@@ -51,15 +51,14 @@ Other customizable features include:
 * The amount of time a player has to answer a question after buzzing in, and
 * The color of each team (represented both on the host’s device and on an optional external display).
 
-# Number of devices
-
-Game Show Studio officially supports up to five player devices connected to a host in Bluetooth LE mode. Since each device enables up to four people to play, up to 20 players are officially supported. It is likely that more devices would be able to connect (so the app enables connection attempts to more than five player devices), but doing so has not been thoroughly tested.
-
-If the compatibility networking mode is used (to support devices that do not have Bluetooth LE, such as iPad 2), Game Show Studio officially supports a host connecting to up to four player devices.
-
 # What's Included
 
-This app includes everything you need to create an immersive game show experience, as described above. It does not, however, include any trivia or academic questions. This allows hosts to use any questions they want. Questions can be found from an existing trivia source (there are many available as board games, including themed trivia), or teachers can use academic materials if they wish to use the app in their classrooms. A host can prepare themed trivia for a New Year’s party or a bridal shower. There are many exciting possibilities for question themes.
+This app includes everything you need to create an immersive game show experience, as described above. At this time, it does not include any trivia or academic questions. This allows hosts to use any questions they want. Questions can be found from an existing trivia source (there are many available as board games, including themed trivia), or teachers can use academic materials if they wish to use the app in their classrooms. A host can prepare themed trivia for a New Year’s party or a bridal shower. There are many exciting possibilities for question themes.
+
+
+## Question Sets Coming in Version 2.0
+
+In [Version 2.0](/updates) (coming soon), question sets will be built into Game Show Studio.
 
 # Cost
 
