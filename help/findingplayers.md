@@ -18,7 +18,7 @@ When you enter Hosting Mode, the Find Players screen appears automatically. You 
 
 <br>
 
- On iPhone, tap Game Options, then tap Find Players on the menu that appears:
+ On iPhone, tap Game Options, then the Find Players option will appear.
 
  ![image of finding players on iPhone](/images/help/v2-0-0/find-players-phone.png){:height="350px"}
 
