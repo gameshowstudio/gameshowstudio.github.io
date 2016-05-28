@@ -5,7 +5,9 @@ permalink: /updates/
 nav_menu_title: Preview Version 2.0
 ---
 
-The next release of Game Show Studio is coming soon, and it is packed with new features and improvements to many existing ones that will help you create a more immersive game show experience.
+The next release of Game Show Studio is coming soon, and it is packed with new features that will help you create a more exciting game show experience.
+
+**Free Upgrade:** Customers who purchased Hosting Mode in version 1 will get a free upgrade to Hosting Mode in version 2.
 
 ## Question Sets
 
@@ -15,15 +17,19 @@ There is a new Questions Pane on both iPhone and iPad. On iPhone, the pane fills
 
 ![questions pane on iPhone](/images/v2-0-0/score-and-buzz-in-info-pane-scores-320.png){: height="350px" }
 
-On iPad, the Questions Pane is visible in conjunction with the Teams/Players view, in addition to the A/V Panel:
+On iPad, the Questions Pane is visible in conjunction with the Teams Panel, in addition to the A/V Panel:
 
 ![questions pane on iPad](/images/v2-0-0/questions-pane-pad.png){: height="400px" }
+
+#### Question Set Editor
 
 It's easy to write your own question sets with Game Show Studio's built-in Question Set Editor:
 
 ![edit-questions-iPad](/images/v2-0-0/edit-questions-pad.png){: height="400px" }
 
-If you prefer to use your own trivia questions outside the app, you can still do that.
+#### External Questions
+
+Use of the new Questions Pane is optional. Game Show Studio still works great for games where the host wants to use trivia questions from a source external to the app (such as trivia board games or academic materials).
 
 ## Timed Round
 
@@ -39,7 +45,7 @@ Commonly used game controls are now easier to access than ever, and new controls
 * The Teams Pane: This pane shows which players are on which teams, the scores, and which player has buzzed in. The style of this pane varies based on which device is being used (iPhone or iPad).
 * [The Questions Pane](#question-sets): Shows the questions in the currently selected set and allows the host to select between various question sets.
 * The Music Pane: When this pane is visible, the host is one tap away from playing a song at any time. [Volume mixers](#music-and-audio-mixers) are now available in version 2.0.
-* The Sound Pane: This pane allows the host to play sounds during the game and to [customize the volume](#music-and-audio-mixers) of the sounds that are played automatically during the game (or turn off the automatic sounds).
+* The Sound Pane: This pane allows the host to play sounds during the game and to [customize the volume](#music-and-audio-mixers) of the sounds that are played automatically during the game.
 * The TV Pane: The host can control what's displayed on the TV from the [TV Pane](#television-display-options).
 * The Round Rules Pane: The rules of the round can be customized from this pane.
 
@@ -50,7 +56,7 @@ Commonly used game controls are now easier to access than ever, and new controls
 * The round rules display was a separate screen in version 1. In version 2, the Round Rules Pane is better integrated and easier to use.
 * All of the other panes (the Questions Pane, the Sound Pane, and the TV Pane) are brand new to version 2, and offer the host new options that were previously not available.
 
-On iPhone, only one of the six panes can be visible at a time. Notice that on all panes except the Teams Pane, the [Host Info View](#host-info-view) appears to let the host know the scores and buzz-in status at all times:
+On iPhone, only one of the six panes can be visible at a time. Notice that on all panes except the Teams Pane, the [Host Info View](#host-info-view) appears so that the host can know the scores and buzz-in status at all times:
 
 ![host control panes](/images/v2-0-0/panes-all.png)
 
@@ -62,7 +68,7 @@ In the following image, the Teams Pane is purple, the A/V Panel is Yellow, and t
 
 ## Host Info View
 
-On iPad, the teams and scores are always visible on the main host screen. On iPhone, other panes (like the Music Pane or the Questions Pane) take the place of the Teams Pane when they are visible. To make sure that the host always has access to relevant information, an informational view appears to show the current scores whenever there are players on teams and the Teams Pane is not visible. When a player buzzes in, this informational panel animates to show the which player buzzed in. This way, the host can stay on a pane other than the Teams Pane (such as the Questions Pane) throughout the entire game. This informational view is pictured below, where you can see what it looks like in its default state, and in the state where a player has buzzed in.
+On iPad, the teams and scores are always visible on the main host screen. On iPhone, other panes (like the Music Pane or the Questions Pane) take the place of the Teams Pane when they are visible. To make sure that the host always has access to relevant information, an informational view appears to show the current scores whenever there are players on teams and the Teams Pane is not visible. When a player buzzes in, this informational panel animates to show which player buzzed in. This way, the host can stay on a pane other than the Teams Pane (such as the Questions Pane) throughout the entire game. This informational view is pictured below, where you can see what it looks like in its default state, and in the state where a player has buzzed in.
 
 ![score info pane](/images/v2-0-0/score-and-buzz-in-info-pane-both.png){:width="440px"}
 
@@ -86,9 +92,9 @@ Tap on any team's score to reveal buttons to award or penalize a team and play t
 
 Version 2.0 gives the host control over more aspects of the TV display, in addition to displaying title cards and a victory animation. Learn more on the [TV Page](/help/tv).
 
-*What Has Changed?* In version 1, there was a TV display, but no customization options.
-
 {% include youtube-player.html id="YGO7o9bycLY" %}
+<br>
+*What Has Changed?* In version 1, there was a TV display, but no customization options.
 
 ## Music and Audio Mixers
 
