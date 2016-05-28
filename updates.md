@@ -2,6 +2,7 @@
 layout: page
 title: Version 2.0
 permalink: /updates/
+nav_menu_title: Preview Version 2.0
 ---
 
 The next release of Game Show Studio is coming soon, and it is packed with new features and improvements to many existing ones that will help you create a more immersive game show experience.
