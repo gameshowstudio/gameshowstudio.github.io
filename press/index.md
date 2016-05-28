@@ -70,7 +70,7 @@ There are also sounds and music that play automatically during the [Timed Round]
 
 For more information about music that's available to be played in the app, check out the [Music page](/help/music). Music is also played when certain screens are displayed on the TV, as described on the [TV page](/help/tv). Sets of round rules also have music associated with them, as described on the [Round Rules page](/help/roundrules).
 
-All of the music and sound effects in the app were created by [my brother and me](/about). These tracks help to provide the game show feeling while playing.
+All of the music and sound effects in the app were created by [my brother and me](/about). These tracks help to provide an immersive game show feeling while playing.
 
 ### Apple TV Integration
 
@@ -82,7 +82,7 @@ Check out the [TV page](/help/tv) for more information.
 
 ## Sweating the Details
 
-We’re proud of this app, and we put a lot of thought into the experience. There are a few minor details that illustrate this that we would like to point out if you are interested. Check them out [here](/press/details).
+We’re proud of this app, and we put a lot of thought into the experience. There are a few small details that illustrate this that we would like to point out if you are interested. Check them out [here](/press/details).
 
 ## Use Cases
 
@@ -114,7 +114,7 @@ Game Show Studio is designed for iPhone and iPad. Version 2.0 supports iOS 8 and
 
 ## Networking Details
 
-Game Show Studio provides the option to choose between two networking modes, so that the host can provide the best experience based on the devices that are participating. The more reliable networking mode is not supported by older devices (such as iPad 2), so Compatibility Mode is offered to allow a host to facilitate a game with such devices. Check out the [Finding Players page](/findingplayers) for more details about
+Game Show Studio provides the option to choose between two networking modes, so that the host can provide the best experience based on the devices that are participating. The more reliable networking mode is not supported by older devices (such as iPad 2), so Compatibility Mode is offered to allow a host to facilitate a game with such devices. Check out the [Finding Players page](/help/findingplayers) for more details about
 
 * fixing connection problems,
 * the networking modes, and
@@ -128,7 +128,7 @@ Downloading Game Show Studio is free. Joining a game as a player is free. A $7.9
 
 ### Free Host Mode Upgrades from Version 1 to Version 2
 
-Users who purchased Hosting Mode in version 1 will have Hosting Mode unlocked for version 2 at no additional cost.
+Customers who purchased Hosting Mode in version 1 will get a free upgrade to Hosting Mode in version 2.
 
 ### Hosting Trial
 
