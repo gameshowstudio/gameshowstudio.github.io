@@ -18,7 +18,7 @@ When you enter Hosting Mode, the Find Players screen appears automatically. You 
 
 <br>
 
- On iPhone, tap Game Options, then tap Find Players:
+ On iPhone, tap Game Options, then tap Find Players on the menu that appears:
 
  ![image of finding players on iPhone](/images/help/v2-0-0/find-players-phone.png){:height="350px"}
 
@@ -26,22 +26,23 @@ When you enter Hosting Mode, the Find Players screen appears automatically. You 
 
 If you have trouble connecting:
 
-* Ensure that both Wi-Fi and Bluetooth are turned on for all devices (host and players). You can do this using Control Center.
+* Ensure that both Wi-Fi and Bluetooth are turned on for all devices (host and players). You can do this using [Control Center](https://support.apple.com/en-us/HT202769){:target="_blank<!-- markup clean_ -->"}.
 * The reliability of connections can be affected by a number of factors, including:
     * The distance between devices.
     * The kinds of devices connecting. For instance, the iPad Pro 9.7" does not connect to more than three devices (when in Hosting Mode) using Reliable Networking Mode. This seems to be caused by a change in hardware with that device compared to older devices.
 * Try to reset the connection on both the host's device and the players' devices.
     * On the host's Find Players screen, tap the "Reset Connection" button.
     * On the players' "Not Connected to Host" screen, tap the "Reset Connection" button (which appears after several seconds).
-* If none of the options listed above work, try to force Game Show Studio to quit, then relaunch it on all devices (host and players).
+* If none of the options listed above work, try to [force Game Show Studio to quit](https://support.apple.com/en-us/HT201330){:target="_blank<!-- markup clean_ -->"}, then relaunch it on all devices (host and players).
 
 ## About the Networking Modes
 
-If you have a device that supports Bluetooth Low Energy (iPhone 4s or newer, iPad 3rd generation or newer, iPod Touch 5th generation or newer), the host can select between two networking modes:
+Host devices that support Bluetooth Low Energy (iPhone 4s or newer, iPad 3rd generation or newer, iPod Touch 5th generation or newer) can select between two networking modes:
 
 * Reliable Networking Mode: This mode uses Bluetooth Low Energy to connect devices, which maintains connections better and usually provides faster device-to-device communication. This mode requires all player devices to support Bluetooth Low Energy.
 * Compatibility Mode: This mode uses a combination of Bluetooth and Wi-Fi to connect devices, and allows older devices (such as iPad 2) to participate in games.
-You can switch to Compatibility Mode by tapping "Don't See Who You're Looking For?" on the Find Players screen. If you're already in Compatibility Mode, you will see "Switch Back to Reliable Networking Mode" instead. If your device does not support Bluetooth Low Energy, you will be in Compatibility Mode by default, and you will not have an option to change it.
+
+You can switch to Compatibility Mode by tapping "Don't See Who You're Looking For?" on the Find Players screen. If you're already in Compatibility Mode, you will see "Switch Back to Reliable Networking Mode" instead. If the host's device does not support Bluetooth Low Energy, it will be in Compatibility Mode by default, and there will not be an option to change it.
 
 ## Number of Devices
 
