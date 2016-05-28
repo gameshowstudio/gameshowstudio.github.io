@@ -15,7 +15,7 @@ Game Show Studio lets you host your own trivia game show in your home, classroom
 
 Game Show Studio can connect iPhone and iPad devices using Bluetooth or Wi-Fi. When a player joins a game, his/her screen becomes a button which can be tapped to buzz in, sending a wireless signal to the host’s device, which will play a sound and indicate which player buzzed in first. Do you have more players than iOS devices? No problem! You can let up to four players use the same device to buzz in. In this case, the screen will be divided into sections so that each player on the device can buzz in by tapping their region of the screen.
 
-![image of host and players](/images/hostandplayers800.png)
+![image of host and players](/images/v2-0-0/pad-host-and-players-w800.png)
 
 # Graphics, Sound Effects, and Music
 
@@ -32,7 +32,7 @@ Other sound effects play automatically throughout the game so that you, the host
 
 If you connect the host’s device to an external display (like an Apple TV), you can show useful game information to all the players in the room. The display includes the names of all players of each team, the score of each team, and the customizable timer that counts down when a player buzzes in. This also makes it easy for everyone in the room to see clearly who buzzed in first. While this adds even more to the complete “Studio” effect, an external display is not required; all of this information is also displayed to the host on his/her device.
 
-![image of host connected to a TV](/images/hostandtv800.png)
+![image of host connected to a TV](/images/v2-0-0/phone-host-and-tv-w800.png)
 
 # Gameplay
 
