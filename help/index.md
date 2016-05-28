@@ -2,7 +2,6 @@
 layout: help-page
 title: Help and Getting Started
 permalink: /help/
-nav_menu_title: Help & Videos
 ---
 
 ## Getting Started with Game Show Studio
