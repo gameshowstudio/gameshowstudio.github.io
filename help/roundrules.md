@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: help-page
 title: Round Rules Options
 permalink: /help/roundrules/
 ---

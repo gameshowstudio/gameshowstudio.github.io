@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: help-page
 title: Tips & Tricks for Hosting a Great Game
 permalink: /help/tips/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: help-page
 title: Music
 permalink: /help/music/
 ---

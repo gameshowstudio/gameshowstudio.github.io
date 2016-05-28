@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: help-page
 title: Timed Round
 permalink: /help/timedround/
 ---
