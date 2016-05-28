@@ -8,7 +8,7 @@ nav_menu_title: Press Kit
 
 ***Version Note:*** *We are preparing to launch [Game Show Studio 2.0](/updates). This page has been updated to reflect version 2.0 features. The [home page](/) will be updated once version 2.0 is launched.*
 
-Thanks for your interest in Game Show Studio! This Press Kit gives additional information and resources that are not listed on the [home page](/). If you haven't already, please start by reviewing the main features of the app on the [home page](/). If you would like additional information, please feel free to contact the developer at [tim@gameshowstudioapp.com](tim@gameshowstudioapp.com).
+Thanks for your interest in Game Show Studio! This Press Kit gives additional information and resources that are not listed on the [home page](/). If you haven't already, please start by reviewing the main features of the app on the [home page](/). If you would like additional information, please feel free to contact the developer at [tim@gameshowstudioapp.com](mailto:tim@gameshowstudioapp.com).
 
 ## Resources
 
