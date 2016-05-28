@@ -19,7 +19,7 @@ The top section of the Round Rules Pane allows you to quickly switch between pre
 * change the order of the rounds (by using the reordering controls after tapping the "Edit" button), and
 * delete rounds (by using the delete control after tapping the "Edit" button).
 
-You can set up your rounds to automatically display the Round Intro screen on the TV (if a TV is connected) when you activate the round. If the round is a Timed Round, you can set the Timed Round Sequence to begin automatically when the round is activated. See the Appearance for Television section below for more information.
+You can set up your rounds to automatically display the Round Intro screen on the TV (if a TV is connected) when you activate the round. If the round is a Timed Round, you can set the Timed Round Sequence to begin automatically when the round is activated. See the [Appearance for Television](#appearance-for-television) section below for more information.
 
 ## Updating Saved Rounds
 
@@ -47,7 +47,7 @@ There are two round style options in the "Round Style" section: Regular Round an
 
 ## Appearance for Television
 
-The active round can affect what is seen on the TV screen. The options in the "Appearance for Television" section give you control over how this works.
+The active round can affect what is seen on the [TV screen](/help/tv). The options in the "Appearance for Television" section give you control over how this works.
 
 ![round rules tv appearance](/images/help/v2-0-0/round-rules-appearance-for-tv.png)
 
