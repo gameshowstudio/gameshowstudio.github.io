@@ -10,7 +10,7 @@ Game Show Studio comes with a variety of question set styles:
 
 * **Warmup Questions:** These questions come in sets of ten, and are intended to be the basis of a quick first round of play to get the players warmed up. These questions are generally fairly easy, so that the players can get a feel for the buzzers and answer questions with confidence.
 * **Regular Questions:** These are short or medium length questions that can form the basis for the main rounds of play.
-* **Long Form Questions:** Long form questions are great for challenging the players while still making it possible for the players to successfully answer many questions. This balance is achieved by giving several clues within each question. The first clues tough and obscure (this is where the challenge comes from). The clues get easier as the question goes on (this means that most questions will probably not go unanswered).
+* **Long Form Questions:** Long form questions are great for challenging the players while still making it possible for the players to successfully answer many questions. This balance is achieved by giving several clues within each question. The first clues are tough and obscure (this is where the challenge comes from). The clues get easier as the question goes on (this means that most questions will probably not go unanswered by the time the question is finished).
 * **Timed Round Questions:** These questions are short, so that the questions come at a rapid pace, matching the frantic and exciting feeling of the [Timed Round](/help/timedround).
 
 Consider how you want your game show to be structured as you pick which question sets to include. Also keep these style options in mind if you write your own questions.
@@ -21,6 +21,8 @@ You can set up several rounds before you gather everyone together to play. Try s
 
 With large groups, it's often a good idea to have some rounds where teams can work together to answer questions. To do this, disable the buzzers, and, instead of having teams buzz in, have teams take turns answering questions. Or have teams write down answers to the same questions simultaneously. Then, you can tap the team's score on the Host's device and then tap "Award Correct Answer with Sound" or "Penalize Incorrect Answer with Sound."
 
+![changing score with sound](/images/v2-0-0/score-change-with-sound.png)
+
 ## Automatically Advancing the Round and Question Sets
 
 {: .floatRight}
@@ -28,7 +30,7 @@ With large groups, it's often a good idea to have some rounds where teams can wo
 
 When you get to the end of a question set, you will be presented with options for what to do next, so that you can quickly move on to the next round. These options include:
 
-* beginning the next starred question set (instructions on how to star question sets are below),
+* beginning the next starred question set (instructions on how to star question sets are [below](#starring-question-sets)),
 * activating the next set of round rules, and
 * putting the Round Intro on the TV (or beginning the Timed Round Sequence, if the next round is a Timed Round).
 
@@ -82,4 +84,4 @@ Game Show Studio automatically plays sounds whenever a player buzzes in, when a 
 
 ## Television Performance
 
-If the television display's performance is not optimal (if the image freezes or lags behind), try putting the Apple TV, Host iOS device, and your wireless router closer together with no walls between them. See the [TV page](/help/tv) for more tips.
+If the television display's performance is not optimal (if the image freezes or lags behind), try putting the Apple TV, Host iOS device, and your wireless router closer together with no walls between them. See the [TV page](/help/tv#fixing-problems) for more tips.
