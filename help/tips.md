@@ -60,7 +60,7 @@ Also consider using themed trivia from other sources, like board games that come
 
 ## Using Timers
 
-There are two main kinds of timers in the game (in addition to the timer for [Timed Round](/help/timedround)). After you read a question, you can start the timer, and it will count down from the [Round Settings](/help/roundrules)' Time to Buzz In. After that timer expires, a sound will play, and the buzzers will become disabled for a brief period of time. This use of the timer is optional; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game.
+There are two main kinds of timers in the game (in addition to the timer for the [Timed Round](/help/timedround)). After you read a question, you can start the timer, and it will count down from the [Round Settings](/help/roundrules)' Time to Buzz In. After that timer expires, a sound will play, and the buzzers will become disabled for a brief period of time. This use of the timer is optional; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game.
 
 A timer also begins automatically when a player buzzes in, counting down from the [Round Settings](/help/roundrules)' Time to Answer. This is the only timer displayed on the television display. Once the timer runs out, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
 
@@ -76,7 +76,7 @@ Keep in mind that a single tap of the Pause button causes songs to fade out. Use
 
 ## Turning Automatic Sounds On or Off
 
-Game Show Studio automatically plays sounds whenever a player buzzes in, when a player answers correctly, when a player answers incorrectly, or when a timer runs out. You can adjust the relative volume of each of these sound effects on the Sound Pane. If you don't want one or more of these sound effects to play, turn volume mixer for that sound all the way off.
+Game Show Studio automatically plays sounds whenever a player buzzes in, when a player answers correctly, when a player answers incorrectly, or when a timer expires. You can adjust the relative volume of each of these sound effects on the Sound Pane. If you don't want one or more of these sound effects to play, turn the volume mixer for that sound all the way down.
 
 ![screenshot of volume mixers with one slider all the way down](/images/help/v2-0-0/sound-effects-correct-off.png)
 

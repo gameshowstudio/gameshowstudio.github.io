@@ -53,7 +53,7 @@ The active round can affect what is seen on the [TV screen](/help/tv). The optio
 
 The Round Rules Pane's TV Appearance section offers options to customize the following items:
 
-* Theme: When the Round Intro is on the TV screen, the background is determined by the theme. See the TV Options page for more info.
+* Theme: When the Round Intro is on the TV screen, the background is determined by the theme. See the [TV Options page](/help/tv) for more info.
 * Use Style on Game Board: The selection from the "Theme" section will be displayed on the main Game Board screen if this switch is on. This may cause poor performance either on the TV screen or on the host's device (especially while scrolling) on older devices.
 * Show Intro on Selection: If this switch is on, the next time you activate this round, the Round Intro will be displayed automatically on the TV (if connected to a TV). If the round is a Timed Round, activating the round will automatically begin the Timed Round Sequence, regardless of whether a TV is connected. Whether or not this switch is on, you can show the Round Intro anytime by going to the TV Pane. You can begin the Timed Round Sequence anytime in the Round Style section of the Round Rules Pane.
 * Intro Song: The song that will be played when the Round Intro is on the TV screen.

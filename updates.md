@@ -13,7 +13,7 @@ The next release of Game Show Studio is coming soon, and it is packed with new f
 
 Game Show Studio now comes with questions to use in your trivia game. Choose from built-in question sets or create your own.
 
-There is a new Questions Pane on both iPhone and iPad. On iPhone, the pane fills the entire main area of the screen. Note that while there are players assigned to teams, the [Host Info View](#host-info-view) will be visible so that the scores and buzz-in status is always available to the host.
+There is a new Questions Pane on both iPhone and iPad. On iPhone, the pane fills the entire main area of the screen. Note that while there are players assigned to teams, the [Host Info View](#host-info-view) will be visible so that the scores and buzz-in status are always available to the host.
 
 ![questions pane on iPhone](/images/v2-0-0/score-and-buzz-in-info-pane-scores-320.png){: height="350px" }
 
@@ -62,7 +62,7 @@ On iPhone, only one of the six panes can be visible at a time. Notice that on al
 
 On iPad, there are three panes visible at all times. The Teams Pane is always visible. The A/V Panel allows the host to display the Music Pane, the Sound Pane, or the TV Pane. The Utility Panel allows the host to display the Questions Pane or the Round Rules Pane.
 
-In the following image, the Teams Pane is purple, the A/V Panel is Yellow, and the Utility Panel is Green:
+In the following image, the Teams Pane is purple, the A/V Panel is yellow, and the Utility Panel is green:
 
 ![host control panes](/images/v2-0-0/host-panels-highlighting-pad.png){: width="350px" }
 
