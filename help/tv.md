@@ -12,7 +12,7 @@ Game Show Studio allows you to put a dynamic display of game information on an A
 
 ## Round Rules Integration
 
-The active round can affect what is seen on the TV. To learn how to get the most out of this feature, check out the [Round Rules page](/help/roundrules#appearance-for-television).
+The active round can affect what is seen on the TV. To learn how to get the most out of this feature, check out the [Round Rules page](/help/roundrules/#appearance-for-television).
 
 ## Fixing Problems
 

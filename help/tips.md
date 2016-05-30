@@ -84,4 +84,4 @@ Game Show Studio automatically plays sounds whenever a player buzzes in, when a 
 
 ## Television Performance
 
-If the television display's performance is not optimal (if the image freezes or lags behind), try putting the Apple TV, Host iOS device, and your wireless router closer together with no walls between them. See the [TV page](/help/tv#fixing-problems) for more tips.
+If the television display's performance is not optimal (if the image freezes or lags behind), try putting the Apple TV, Host iOS device, and your wireless router closer together with no walls between them. See the [TV page](/help/tv/#fixing-problems) for more tips.
