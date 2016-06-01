@@ -36,7 +36,7 @@ Use of the new Questions Pane is optional. Game Show Studio still works great fo
 {: .floatRight }
 {% include youtube-player.html id="qBET_Em5XT8" %}
 
-The host can now include a new kind of round that makes for a dramatic ending to a game. The fast-paced [Timed Round](/help/timedround) includes an exciting introduction and new sound effects that helps the host create a thrilling game show experience. Check out the video to learn more.
+The host can now include a new kind of round that makes for a dramatic ending to a game. The fast-paced [Timed Round](/help/timedround) includes an exciting introduction and new sound effects that help the host create a thrilling game show experience. Check out the video to learn more.
 
 ## Host Control Panes
 
