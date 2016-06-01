@@ -20,6 +20,6 @@ Regardless of which button is visible, tapping the button will display a message
 
 ## Networking on iPad Pro 9.7"
 
-Tests using the iPad Pro 9.7" as the host have shown that the device will not maintain a connection to more than three player devices while in Reliable Mode. Attempts to connect to more than three devices fail. Other newer devices (like the iPhone 6s) allow connections to many more than three devices. We suspect that this is due to a hardware change in the iPad Pro 9.7", and we have been in contact with Apple about this issue, but have not received any information about workarounds or whether this is an expected change.
+Tests using the iPad Pro 9.7" as the host have shown that the device will not maintain a connection to more than three player devices while in Reliable Mode. Attempts to connect to more than three devices fail. Other newer devices (like the iPhone 6s) allow connections to many more than three devices. We suspect that this is due to a hardware change in the iPad Pro 9.7", and we are continuing to investigate this issue.
 
 For more information, check out our [Finding Players page](/help/findingplayers).
