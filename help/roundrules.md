@@ -6,7 +6,7 @@ permalink: /help/roundrules/
 
 The Round Rules Pane allows you to customize your trivia game show in a variety of ways.
 
-![round rules pane](/images/help/v2-0-0/round-pane-phone.png){: height="400px"}
+![round rules pane](/images/help/v2-0-0/round-pane-phone.png){: width="220px"}
 
 ## Quickly Loading Saved Round Rules
 

@@ -15,17 +15,17 @@ Game Show Studio now comes with questions to use in your trivia game. Choose fro
 
 There is a new Questions Pane on both iPhone and iPad. On iPhone, the pane fills the entire main area of the screen. Note that while there are players assigned to teams, the [Host Info View](#host-info-view) will be visible so that the scores and buzz-in status are always available to the host.
 
-![questions pane on iPhone](/images/v2-0-0/score-and-buzz-in-info-pane-scores-320.png){: height="350px" }
+![questions pane on iPhone](/images/v2-0-0/score-and-buzz-in-info-pane-scores-320.png){: width="250px" }
 
 On iPad, the Questions Pane is visible in conjunction with the Teams Panel, in addition to the A/V Panel:
 
-![questions pane on iPad](/images/v2-0-0/questions-pane-pad.png){: height="400px" }
+![questions pane on iPad](/images/v2-0-0/questions-pane-pad.png){: width="550px" }
 
 #### Question Set Editor
 
 It's easy to write your own question sets with Game Show Studio's built-in Question Set Editor:
 
-![edit-questions-iPad](/images/v2-0-0/edit-questions-pad.png){: height="400px" }
+![edit-questions-iPad](/images/v2-0-0/edit-questions-pad.png){: width="550px" }
 
 #### External Questions
 

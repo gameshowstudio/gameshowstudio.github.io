@@ -14,13 +14,13 @@ The following video demonstrates how to connect to players and begin a game:
 
 When you enter Hosting Mode, the Find Players screen appears automatically. You can also return to this screen later, if needed. To do so on iPad, tap Find Players on the Host screen:
 
-![image of finding players on iPad](/images/help/v2-0-0/find-players-pad.png){:height="330px"}
+![image of finding players on iPad](/images/help/v2-0-0/find-players-pad.png){:width="440px"}
 
 <br>
 
  On iPhone, tap Game Options, then the Find Players option will appear.
 
- ![image of finding players on iPhone](/images/help/v2-0-0/find-players-phone.png){:height="350px"}
+ ![image of finding players on iPhone](/images/help/v2-0-0/find-players-phone.png){:width="220px"}
 
 ## Fixing Connection Problems
 
