@@ -17,3 +17,6 @@ repository: gameshowstudio/gameshowstudio.github.io
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-redirect-from

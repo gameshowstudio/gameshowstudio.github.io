@@ -3,6 +3,7 @@ layout: page
 title: Press Kit
 permalink: /press/
 nav_menu_title: Press Kit
+redirect_from: "/home/press"
 ---
 
 
