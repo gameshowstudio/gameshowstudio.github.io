@@ -96,15 +96,19 @@ Game Show Studio uses mobile devices to bring people together in a meaningful wa
 
 ## Continued Development
 
-Game Show Studio has enjoyed frequent updates during its 1.x lifetime, with new user-facing features:
+Game Show Studio has enjoyed frequent updates during its lifetime, with new user-facing features.
 
+### Version 1 Updates
 * Version 1.0: January 30, 2015
 * Version 1.1: February 18, 2015 - Buzzer timing enhancement.
 * Version 1.2: March 12, 2015 - Ability to customize which sounds play during the game.
 * Version 1.3: April 6, 2015 - More reliable networking mode (see [Networking Details](#networking-details) below for details).
-* Version 1.4 - May 10, 2015 - New song collection (Intrigue) and new ambient track (Suspension).
+* Version 1.4: May 10, 2015 - New song collection (Intrigue) and new ambient track (Suspension).
 
-After releasing version 1.4, development began on version 2.0, which is planned for a release in the near future. Additional development is planned after version 2.0. Check out the updates coming in version 2.0 [here](/updates).
+### Version 2 Updates
+* Version 2.0: June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
+
+Additional updates are planned for Game Show Studio. Check back soon!
 
 ## System Requirements
 
