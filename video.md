@@ -4,8 +4,6 @@ title: Videos
 permalink: /video/
 ---
 
-{% include future-release-note.html %}
-
 ## Intro Video
 
 This one-minute intro to Game Show Studio that shows how easy it is to wirelessly connect to players to start a game in addition to showcasing a couple of Game Show Studio's features. Check out our [Home Page](/) for more information about Game Show Studio.
