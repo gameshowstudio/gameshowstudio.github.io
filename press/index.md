@@ -107,8 +107,7 @@ Game Show Studio has enjoyed frequent updates during its lifetime, with new user
 
 ### Version 2 Updates
 * Version 2.0: June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
-
-Additional updates are planned for Game Show Studio. Check back soon!
+* Version 2.1: *Coming soon.*
 
 ## System Requirements
 
