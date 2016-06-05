@@ -1,15 +1,20 @@
 ---
 layout: page
-title: Version 2.0
+title: Game Show Studio Updates
 permalink: /updates/
-nav_menu_title: Preview Version 2.0
 ---
 
-The next release of Game Show Studio is coming soon, and it is packed with new features that will help you create a more exciting game show experience.
+## Version 2.1
+
+Coming soon.
+
+## Version 2.0
+
+Version 2.0 was a huge release for Game Show Studio. The upgrade is packed with new features that will help you create a more exciting game show experience. Game Show Studio 2.0 was launched on June 5, 2016.
 
 **Free Upgrade:** Customers who purchased Hosting Mode in version 1 will get a free upgrade to Hosting Mode in version 2.
 
-## Question Sets
+### Question Sets
 
 Game Show Studio now comes with questions to use in your trivia game. Choose from built-in question sets or create your own.
 
@@ -31,14 +36,14 @@ It's easy to write your own question sets with Game Show Studio's built-in Quest
 
 Use of the new Questions Pane is optional. Game Show Studio still works great for games where the host wants to use trivia questions from a source external to the app (such as trivia board games or academic materials).
 
-## Timed Round
+### Timed Round
 
 {: .floatRight }
 {% include youtube-player.html id="qBET_Em5XT8" %}
 
 The host can now include a new kind of round that makes for a dramatic ending to a game. The fast-paced [Timed Round](/help/timedround) includes an exciting introduction and new sound effects that help the host create a thrilling game show experience. Check out the video to learn more.
 
-## Host Control Panes
+### Host Control Panes
 
 Commonly used game controls are now easier to access than ever, and new controls have been added to give the host more control over the game show experience. There are six Host Control Panes:
 
@@ -66,29 +71,29 @@ In the following image, the Teams Pane is purple, the A/V Panel is yellow, and t
 
 ![host control panes](/images/v2-0-0/host-panels-highlighting-pad.png){: width="350px" }
 
-## Host Info View
+### Host Info View
 
 On iPad, the teams and scores are always visible on the main host screen. On iPhone, other panes (like the Music Pane or the Questions Pane) take the place of the Teams Pane when they are visible. To make sure that the host always has access to relevant information, an informational view appears to show the current scores whenever there are players on teams and the Teams Pane is not visible. When a player buzzes in, this informational panel animates to show which player buzzed in. This way, the host can stay on a pane other than the Teams Pane (such as the Questions Pane) throughout the entire game. This informational view is pictured below, where you can see what it looks like in its default state, and in the state where a player has buzzed in.
 
 ![score info pane](/images/v2-0-0/score-and-buzz-in-info-pane-both.png){:width="440px"}
 
-## Easier Score Updates
+### Easier Score Updates
 
-### Quick Score Corrections
+#### Quick Score Corrections
 
 {: .floatRight }
 ![score corrections](/images/v2-0-0/scoring-correction.png){:width="230px"}
 
 New in version 2.0, the host can easily make scoring adjustments based on the round rules. Tapping a team's score will display an easy-to-use panel that offers one-touch access to common scoring changes (add or subtract correct points or incorrect points). Free-form score editing is also still available.
 
-### Award or Penalize Players with Sound Anytime
+#### Award or Penalize Players with Sound Anytime
 
 {: .floatRight }
 ![score updates with sound](/images/v2-0-0/score-change-with-sound.png){:width="230px"}
 
 Tap on any team's score to reveal buttons to award or penalize a team and play the corresponding sound. This is great for asking on-the-fly questions or for questions that the host wants to let a team answer collaboratively.
 
-## Television Display Options
+### Television Display Options
 
 Version 2.0 gives the host control over more aspects of the TV display, in addition to displaying title cards and a victory animation. Learn more on the [TV Page](/help/tv).
 
@@ -96,7 +101,7 @@ Version 2.0 gives the host control over more aspects of the TV display, in addit
 <br>
 *What Has Changed?* In version 1, there was a TV display, but no customization options.
 
-## Music and Audio Mixers
+### Music and Audio Mixers
 
 The volume of the songs available on the Music Pane can be customized on a per-track basis.
 
@@ -108,7 +113,7 @@ Sound effect volume can also be customized on a per-sound effect basis in the So
 
 ![sound mixers](/images/v2-0-0/pane-sounds.png){:width="230px"}
 
-## Additional Updates
+### Additional Updates
 
 Version 2.0 is filled with updates, big and small. Here are just a few more updates that come in version 2.0:
 
