@@ -10,7 +10,7 @@ Coming soon.
 
 ## Version 2.0
 
-Version 2.0 was a huge release for Game Show Studio. The upgrade is packed with new features that will help you create a more exciting game show experience. Game Show Studio 2.0 was launched on June 5, 2016.
+Version 2.0 was a huge release for Game Show Studio. The upgrade is packed with new features that will help you create a more exciting game show experience.
 
 **Free Upgrade:** Customers who purchased Hosting Mode in version 1 will get a free upgrade to Hosting Mode in version 2.
 
