@@ -6,7 +6,15 @@ permalink: /updates/
 
 ## Version 2.1
 
-Coming soon.
+{: .floatRight }
+![animation-of-new-3d-touch](/images/v2-0-0/3d-touch-team.gif)
+
+New in Version 2.1: 3D Touch Support.
+
+* Quick Score Edit: Use a 3D Touch on a team to quickly access the free-form score edit panel. The Team Detail Screen is still available using a regular (non-3D) touch to get access to the [quick score updates](#easier-score-updates).
+* Home Screen Quick Actions: Now you can get access to Hosting Mode or Player Mode using a 3D Touch from the iPhone Home screen.
+
+![quick-actions](/images/v2-0-0/3d-touch-quick-actions.png){:width="250px"}
 
 ## Version 2.0
 
