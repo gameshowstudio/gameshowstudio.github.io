@@ -96,7 +96,7 @@ Game Show Studio uses mobile devices to bring people together in a meaningful wa
 
 ## Continued Development
 
-Game Show Studio has enjoyed frequent updates during its lifetime, with new user-facing features.
+Game Show Studio has enjoyed frequent [updates](/updates) during its lifetime, with new user-facing features.
 
 ### Version 1 Updates
 * Version 1.0: January 30, 2015
@@ -106,8 +106,8 @@ Game Show Studio has enjoyed frequent updates during its lifetime, with new user
 * Version 1.4: May 10, 2015 - New song collection (Intrigue) and new ambient track (Suspension).
 
 ### Version 2 Updates
-* Version 2.0: June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
-* Version 2.1: *Coming soon.*
+* [Version 2.0](/updates/2-0): June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
+* [Version 2.1](/updates/2-1): 3D Touch Support (within the app and Home screen Quick Actions). See an animation of 3D Touch in action in Game Show Studio [here](/updates/2-1).
 
 ## System Requirements
 
