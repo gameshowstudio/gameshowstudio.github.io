@@ -64,7 +64,7 @@ Other customizable features include:
 
 # Cost
 
-{: .floatRight}
+{: .floatRight .smallerImageOnPhone}
 ![game-show-studio-app-icon](/images/gss-rounded-icon-200.png)
 
 Downloading Game Show Studio is free. Players can join games for free. In order to support the developer of the app, hosting a game requires an In-App Purchase. You will have an opportunity to try all the hosting features before you buy, including connecting to players, playing sounds/music, allowing players to buzz in, and connecting to an external display. And if you decide you want to host a full game, only you have to make the purchase; your friends can download the app on their devices and connect to your game for free.
