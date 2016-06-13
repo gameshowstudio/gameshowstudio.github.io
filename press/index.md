@@ -107,7 +107,7 @@ Game Show Studio has enjoyed frequent [updates](/updates) during its lifetime, w
 
 ### Version 2 Updates
 * [Version 2.0](/updates/2-0): June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
-* [Version 2.1](/updates/2-1): 3D Touch Support (within the app and Home screen Quick Actions). See an animation of 3D Touch in action in Game Show Studio [here](/updates/2-1).
+* [Version 2.1](/updates/2-1): June 13, 2016 - 3D Touch Support (within the app and Home screen Quick Actions). See an animation of 3D Touch in action in Game Show Studio [here](/updates/2-1).
 
 ## System Requirements
 
