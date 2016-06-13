@@ -17,7 +17,7 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 * [Logo (1024 x 312)](/images/press/logoWithText1024x312.jpg){:target="_blank<!-- markup clean_ -->"}
 * [Image of Multiple Devices Connected During Game in Progress](/images/v2-0-0/pad-host-and-players-w1980.png){:target="_blank<!-- markup clean_ -->"}
 * [Image of Host Connected to Apple TV](/images/v2-0-0/phone-host-and-tv-w900.png){:target="_blank<!-- markup clean_ -->"}
-* [What's New in Version 2.0](/updates)
+* [What's New in Versions 2.0 and 2.1](/updates)
 * [App Store Download Page](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8){:target="_blank<!-- markup clean_ -->"}
 
 {% include youtube-player.html id="8EqQc93Jzaw" %}
