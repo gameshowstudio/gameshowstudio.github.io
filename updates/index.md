@@ -4,6 +4,17 @@ title: Game Show Studio Updates
 permalink: /updates/
 ---
 
+## Version 2.2
+
+{: .floatRight .smallerImageOnPhone }
+![music-icon](/images/icon-music.png)
+
+Version 2.2 includes multiple enhancements to the Music Pane, including:
+
+* A new song collection called Clouds.
+* The Play button becomes a Pause button on the Music Pane while a song is playing. Tap this button once to smoothly fade out a song. Tap it twice to stop a song immediately. The other Pause button remains visible at all times, for easy access even when the Music Pane is not showing.
+* Visual improvements when a song or sound effect is tapped.
+
 ## Version 2.1
 
 {: .floatRight }

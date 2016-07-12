@@ -17,7 +17,7 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 * [Logo (1024 x 312)](/images/press/logoWithText1024x312.jpg){:target="_blank<!-- markup clean_ -->"}
 * [Image of Multiple Devices Connected During Game in Progress](/images/v2-0-0/pad-host-and-players-w1980.png){:target="_blank<!-- markup clean_ -->"}
 * [Image of Host Connected to Apple TV](/images/v2-0-0/phone-host-and-tv-w900.png){:target="_blank<!-- markup clean_ -->"}
-* [What's New in Versions 2.0 and 2.1](/updates)
+* [What's New in Versions 2.0 through 2.2](/updates)
 * [App Store Download Page](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8){:target="_blank<!-- markup clean_ -->"}
 
 {% include youtube-player.html id="8EqQc93Jzaw" %}
@@ -108,6 +108,7 @@ Game Show Studio has enjoyed frequent [updates](/updates) during its lifetime, w
 ### Version 2 Updates
 * [Version 2.0](/updates/2-0): June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
 * [Version 2.1](/updates/2-1): June 13, 2016 - 3D Touch Support (within the app and Home screen Quick Actions). See an animation of 3D Touch in action in Game Show Studio [here](/updates/2-1).
+* [Version 2.2](/updates/2-2): July 12, 2016 - Music Pane Updates. Enhancements to the functionality and appearance of the music pane in addition to a new song collection called Clouds.
 
 ## System Requirements
 
