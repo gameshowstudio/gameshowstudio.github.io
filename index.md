@@ -13,7 +13,7 @@ Game Show Studio lets you host your own trivia game show in your home, classroom
 
 ## New Version Out Now
 
-Game Show Studio 2.2 is now available on the App Store. Versions 2.0 through 2.2 delivered many new features that help you create a more exciting game show experience. New features include:
+Game Show Studio 2.3 is now available on the App Store. Versions 2.0 through 2.3 delivered many new features that help you create a more exciting game show experience. New features include:
 
 * [Question sets](/updates/#question-sets) built into the app,
 * A more dynamic [TV display](/updates/#television-display-options),

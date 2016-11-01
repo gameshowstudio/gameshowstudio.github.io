@@ -60,9 +60,9 @@ Also consider using themed trivia from other sources, like board games that come
 
 ## Using Timers
 
-There are two main kinds of timers in the game (in addition to the timer for the [Timed Round](/help/timedround)). After you read a question, you can start the timer, and it will count down from the [Round Settings](/help/roundrules)' Time to Buzz In. After that timer expires, a sound will play, and the buzzers will become disabled for a brief period of time. This use of the timer is optional; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game.
+There are two main kinds of timers in the game (in addition to the timer for the [Timed Round](/help/timedround)). After you read a question, you can start the timer, and it will count down from the [Round Settings](/help/roundrules)' Time to Buzz In. After that timer expires, a sound will play, and the buzzers will become disabled for a brief period of time. This use of the timer is optional; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game. This timer can be hidden from the TV display by toggling the switch on the TV Pane labeled "Show Timer to Buzz In."
 
-A timer also begins automatically when a player buzzes in, counting down from the [Round Settings](/help/roundrules)' Time to Answer. This is the only timer displayed on the television display. Once the timer runs out, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
+A timer also begins automatically when a player buzzes in, counting down from the [Round Settings](/help/roundrules)' Time to Answer. Once the timer runs out, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
 
 ## Making Corrections and Adjusting Team Colors
 

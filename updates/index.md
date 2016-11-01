@@ -4,10 +4,23 @@ title: Game Show Studio Updates
 permalink: /updates/
 ---
 
+## Version 2.3
+
+{: .floatRight .smallerImageOnPhone }
+![tv-icon](/images/icon-tv.png){:width="171px"}
+
+Game Show Studio 2.3 includes an update to the TV screen so that the host can show the timer that counts down the number of seconds players have to buzz in after a question is read.
+
+* The host can start this timer by pressing the "Start Timer" button on the Host screen.
+* There is an option to show or hide this timer in the TV Pane on the Host screen.
+* The number of seconds this timer counts down from can be customized for each round in the Round Rules pane under the Timing section by changing the "To Buzz In" setting.
+
+This version also includes a minor layout update.
+
 ## Version 2.2
 
 {: .floatRight .smallerImageOnPhone }
-![music-icon](/images/icon-music.png)
+![music-icon](/images/icon-music.png){:width="171px"}
 
 Version 2.2 includes multiple enhancements to the Music Pane, including:
 
