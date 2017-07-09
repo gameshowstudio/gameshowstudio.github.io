@@ -33,7 +33,7 @@ Game Show Studio can connect iPhone and iPad devices using Bluetooth or Wi-Fi. W
 
 All good game shows have exciting graphics, music, and sound effects. Thanks to this app, the game show that you host will be no different. As soon as you download this app and enter hosting mode, you will be able to play music and sound effects, specifically created for use in a game show, including:
 
-* A theme song,
+* Theme songs,
 * Background songs that you can play while you read questions or while you are introducing a new round of play,
 * Short clips of transition music, and
 * Ambient sound.
