@@ -4,6 +4,15 @@ title: Game Show Studio Updates
 permalink: /updates/
 ---
 
+## Version 2.3.1
+
+Game Show Studio 2.3.1 adds support for iPhone X.
+
+![host screen](/images/host-players-iphone-x.png){:height="310px"}
+![questions screen](/images/host-questions-iphone-x.png){:height="310px"}
+
+Game Show Studio was updated to look and work great on iPhone X even before iPhone X was available. This provided a great experience with Game Show Studio on the new device from day one.
+
 ## Version 2.3
 
 {: .floatRight .smallerImageOnPhone }

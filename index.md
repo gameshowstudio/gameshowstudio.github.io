@@ -11,6 +11,10 @@ Game Show Studio lets you host your own trivia game show in your home, classroom
 
 [![download on the app store](images/appstorebadge.svg)](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8)
 
+## Ready for iPhone X
+
+Game Show Studio [version 2.3.1](/updates/#version-231) brings support for iPhone X so that the app looks and works great on the newest device.
+
 # Connecting Devices and Buzzing In
 
 Game Show Studio can connect iPhone and iPad devices using Bluetooth or Wi-Fi. When a player joins a game, his/her screen becomes a button which can be tapped to buzz in, sending a wireless signal to the host’s device, which will play a sound and indicate which player buzzed in first. Do you have more players than iOS devices? No problem! You can let up to four players use the same device to buzz in. In this case, the screen will be divided into sections so that each player on the device can buzz in by tapping their region of the screen.
