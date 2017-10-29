@@ -113,7 +113,7 @@ Game Show Studio has enjoyed frequent [updates](/updates) during its lifetime, w
 
 ## System Requirements
 
-Game Show Studio is designed for iPhone and iPad. Version 2.0 supports iOS 8 and above and is optimized for iPhone 5, iPhone 6, iPhone 6 Plus, and iPad Pro 12.9".
+Game Show Studio is designed for iPhone and iPad and supports devices running iOS 9 and above.
 
 ## Networking Details
 
