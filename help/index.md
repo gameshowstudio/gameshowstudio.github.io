@@ -6,7 +6,7 @@ permalink: /help/
 
 ## Getting Started with Game Show Studio
 
-Starting a game and connecting to players with Game Show Studio is easy, as demonstrated in this video:
+Learn how easy it is to get started with Game Show Studio by watching this video:
 
 {% include youtube-player.html id="tKtZ-UBI6ls" %}
 
@@ -14,7 +14,7 @@ More information about starting a game can be found on the [Finding Players page
 
 ## Help Topics
 
-Game Show Studio is full of features that help you create an immersive trivia experience. To learn more about these features, check out these pages:
+Game Show Studio is full of features that help you create an immersive trivia experience. Check out these pages to learn more about some of them:
 
 * [Finding Players](/help/findingplayers)
 * [Music](/help/music)
