@@ -17,36 +17,13 @@ Consider how you want your game show to be structured as you pick which question
 
 ## Round Styles and Rules
 
-You can set up several rounds before you gather everyone together to play. Try starting out with a round with no penalties for incorrect answers to get players warmed up, then in future rounds, make correct answers worth more points and penalize incorrect answers. For the final round, try using a [Timed Round](/help/timedround) to end on an exciting note.
+You can set up several rounds before you gather everyone together to play. Try starting out with a round with no penalties for incorrect answers to get players warmed up, then in future rounds, make correct answers worth more points and penalize incorrect answers. For the final round, use a [Timed Round](/help/timedround) to end on an exciting note.
 
 With large groups, it's often a good idea to have some rounds where teams can work together to answer questions. To do this, disable the buzzers, and, instead of having teams buzz in, have teams take turns answering questions. Or have teams write down answers to the same questions simultaneously. Then, you can tap the team's score on the Host's device and then tap "Award Correct Answer with Sound" or "Penalize Incorrect Answer with Sound."
 
-![changing score with sound](/images/v2-0-0/score-change-with-sound.png)
+## End with a Timed Round
 
-## Automatically Advancing the Round and Question Sets
-
-{: .floatRight}
-![screenshot of end of question set](/images/help/v2-0-0/end-of-q-set.png)
-
-When you get to the end of a question set, you will be presented with options for what to do next, so that you can quickly move on to the next round. These options include:
-
-* beginning the next starred question set (instructions on how to star question sets are [below](#starring-question-sets)),
-* activating the next set of round rules, and
-* putting the Round Intro on the TV (or beginning the Timed Round Sequence, if the next round is a Timed Round).
-
-A little advance planning can go a long way toward making a smooth and effortless game show experience. Star the question sets you want to use and put them in the desired order before you play. One way to make the end of question set decisions easy is to make the same number of rounds (in the Round Rules Pane) as there are starred question sets. That way, at the end of a question set, you can always make sure that the "Begin Next Starred Set" and "Activate Next Round" options are enabled, and know that you will get the result you want.
-
-![screenshot of starred question sets and corresponding rounds](/images/help/v2-0-0/questions-and-rounds-coordination.png)
-
-*In the example screenshots above, there are five starred question sets and five rounds that correspond to one another.*
-
-## Starring Question Sets
-
-To star question sets, tap the "Choose Question Set" option on the Q/A Pane. There, you can tap any of the stars that are not filled in on the Standard or Custom tabs, and the question set will become starred (tap the star again to unstar). The starred question sets will then appear in the Starred tab.
-
-## The Timed Round
-
-For a Timed Round, it is best to use questions that are short, so that the exciting action of playing against the clock remains fast-paced. Tips for introducing and running these rounds can be found on the [Timed Round page](/help/timedround).
+For an exciting finish, end your game with a timed round. Tips for introducing and running these rounds can be found on the [Timed Round page](/help/timedround).
 
 ## Tailoring the Game to the Players
 
@@ -60,9 +37,9 @@ Also consider using themed trivia from other sources, like board games that come
 
 ## Using Timers
 
-There are two main kinds of timers in the game (in addition to the timer for the [Timed Round](/help/timedround)). After you read a question, you can start the timer, and it will count down from the [Round Settings](/help/roundrules)' Time to Buzz In. After that timer expires, a sound will play, and the buzzers will become disabled for a brief period of time. This use of the timer is optional; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game. This timer can be hidden from the TV display by toggling the switch on the TV Pane labeled "Show Timer to Buzz In."
+There are two main kinds of timers in the game (in addition to the timer for the [Timed Round](/help/timedround)). After you read a question, you can start the timer, and it will count down from the [Round Settings](/help/roundrules)' Time to Buzz In. After that timer expires, a sound will play, and the buzzers will become disabled for a brief period of time. This use of the timer is optional; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game. This timer can be hidden from the TV display by toggling the switch on the TV Options screen labeled "Show Timer to Buzz In."
 
-A timer also begins automatically when a player buzzes in, counting down from the [Round Settings](/help/roundrules)' Time to Answer. Once the timer runs out, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
+A timer also begins automatically when a player buzzes in, counting down from the [Round Settings](/help/roundrules)' Time to Answer. Once the timer expires, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
 
 ## Making Corrections and Adjusting Team Colors
 
@@ -76,12 +53,4 @@ Keep in mind that a single tap of the Pause button causes songs to fade out. Use
 
 ## Turning Automatic Sounds On or Off
 
-Game Show Studio automatically plays sounds whenever a player buzzes in, when a player answers correctly, when a player answers incorrectly, or when a timer expires. You can adjust the relative volume of each of these sound effects on the Sound Pane. If you don't want one or more of these sound effects to play, turn the volume mixer for that sound all the way down.
-
-![screenshot of volume mixers with one slider all the way down](/images/help/v2-0-0/sound-effects-correct-off.png)
-
-*The Correct Sound's volume mixer is all the way down.*
-
-## Television Performance
-
-If the television display's performance is not optimal (if the image freezes or lags behind), try putting the Apple TV, Host iOS device, and your wireless router closer together with no walls between them. See the [TV page](/help/tv/#fixing-problems) for more tips.
+Game Show Studio automatically plays sounds whenever a player buzzes in, when a player answers correctly, when a player answers incorrectly, or when a timer expires. You can adjust the relative volume of each of these sound effects on the Sound Pane. If you don't want one or more of these sound effects to play, turn the volume control for that sound all the way down.
