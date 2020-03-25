@@ -6,18 +6,17 @@ nav_menu_title: Press Kit
 redirect_from: "/home/press"
 ---
 
-Thanks for your interest in Game Show Studio! This Press Kit gives additional information and resources that are not listed on the [home page](/). If you haven't already, please start by reviewing the main features of the app on the [home page](/). If you would like additional information, please feel free to contact the developer at [tim@gameshowstudioapp.com](mailto:tim@gameshowstudioapp.com).
+Thanks for your interest in Game Show Studio! This Press Kit gives additional information and resources that are not listed on the [home page](/). If you would like additional information, please feel free to contact the developer at [tim@gameshowstudioapp.com](mailto:tim@gameshowstudioapp.com).
 
 ## Resources
 
 * [Demonstration Video](https://youtu.be/8EqQc93Jzaw){:target="_blank<!-- markup clean_ -->"} (1 minute, also embedded below)
-* [Additional Videos About Game Show Studio](/video)
 * [Game Show Studio Help Pages](/help)
 * [App Icon (1024 x 1024)](/images/press/gssIconRound1024.png){:target="_blank<!-- markup clean_ -->"}
 * [Logo (1024 x 312)](/images/press/logoWithText1024x312.jpg){:target="_blank<!-- markup clean_ -->"}
 * [Image of Multiple Devices Connected During Game in Progress](/images/v2-0-0/pad-host-and-players-w1980.png){:target="_blank<!-- markup clean_ -->"}
 * [Image of Host Connected to Apple TV](/images/v2-0-0/phone-host-and-tv-w900.png){:target="_blank<!-- markup clean_ -->"}
-* [What's New in Versions 2.0 and Beyond](/updates)
+* [App Update History](/updates)
 * [App Store Download Page](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8){:target="_blank<!-- markup clean_ -->"}
 
 {% include youtube-player.html id="8EqQc93Jzaw" %}
@@ -43,7 +42,7 @@ The host has control over scoring and timing rules. Different sets of rules can 
 
 Because there is always a set of active round rules, when a player buzzes in, the only action necessary from the host is to tap whether the player answered correctly or incorrectly. The score will automatically be updated based on the host’s choice, meaning that the host can concentrate on running an exciting game without worrying about the math. The host also has the option to clear the buzzers without adjusting the score to quickly remedy inadvertent taps from overzealous players.
 
-It is quick and easy to make scoring corrections any time during the game. To do so on iPad, tap the team header that shows the score. On iPhone, tap anywhere on the cell that lists the team members and the score. New in version 2.0, there are buttons with quick score updates, so that a team's score can be adjusted based on the current round's "Points for Correct" and "Points for Incorrect" values.
+It is quick and easy to make scoring corrections any time during the game by tapping on any team's score. A host can quickly type in any score, or use the Quick Update buttons, which adjust the team's score based on the current round's "Points for Correct" and "Points for Incorrect" values.
 
 ![scoring correction screen](/images/v2-0-0/scoring-correction.png){:width="220px"}
 
@@ -68,19 +67,15 @@ There are also sounds and music that play automatically during the [Timed Round]
 
 For more information about music that's available to be played in the app, check out the [Music page](/help/music). Music is also played when certain screens are displayed on the TV, as described on the [TV page](/help/tv). Sets of round rules also have music associated with them, as described on the [Round Rules page](/help/roundrules).
 
-All of the music and sound effects in the app were created by [my brother and me](/about). These tracks help to provide an immersive game show feeling while playing.
+All of the music and sound effects in the app were created by the developer and his brother. These tracks help to provide an immersive game show feeling while playing.
 
-### Apple TV Integration
+### TV Integration
 
-Game Show Studio is designed to integrate with an Apple TV which displays scores and a timer, adding to the “Studio” feel. When connected to an Apple TV, sound effects and music are routed to the TV. Game Show Studio works great with or without an Apple TV. All of the necessary information to host a game is displayed on the host’s screen, making the additional display optional.
+Game Show Studio is designed to work with or without a TV, which, when connected, displays scores and timers, adding to the “Studio” feel. When connected to a TV, sound effects and music are routed to the TV. All of the necessary information to host a game is displayed on the host’s screen, making the additional display optional.
 
 Check out the [TV page](/help/tv) for more information.
 
 ![image of host connected to a TV](/images/v2-0-0/phone-host-and-tv-w800.png)
-
-## Sweating the Details
-
-We’re proud of this app, and we put a lot of thought into the experience. There are a few small details that illustrate this that we would like to point out if you are interested. Check them out [here](/press/details).
 
 ## Use Cases
 
@@ -96,7 +91,7 @@ Game Show Studio uses mobile devices to bring people together in a meaningful wa
 
 ## Continued Development
 
-Game Show Studio has enjoyed frequent [updates](/updates) during its lifetime, with new user-facing features.
+Game Show Studio has enjoyed numerous [updates](/updates) during its lifetime, with new features that give hosts an increasing number of exciting ways to put on a game show.
 
 ### Version 1 Updates
 * Version 1.0: January 30, 2015
@@ -114,7 +109,7 @@ Game Show Studio has enjoyed frequent [updates](/updates) during its lifetime, w
 
 ## System Requirements
 
-Game Show Studio is designed for iPhone and iPad and supports devices running iOS 9 and above.
+Game Show Studio is designed for iPhone and iPad and supports devices running iOS 12 and above. Devices running older versions of iOS with a previous version of the app installed are still able to host and join games including devices running the current version of Game Show Studio.
 
 ## Networking Details
 
@@ -130,9 +125,9 @@ For more technical information about how wireless connections work on Game Show 
 
 Downloading Game Show Studio is free. Joining a game as a player is free. A $7.99 (US) In-App Purchase is required to host a full game. This pricing model was selected because we wanted to make it easy for a host to get a lot of people interested in playing a game (it is a low barrier to ask people to download a free app). This follows the spirit of a board game, where only one person needs to make the purchase for many people to enjoy it. We hope that users will compare the cost and value of this app to that of a board game.
 
-### Free Host Mode Upgrades from Version 1 to Version 2
+### Free Host Mode Upgrades from Any Previous Version to Version 3
 
-Customers who purchased Hosting Mode in version 1 will get a free upgrade to Hosting Mode in version 2.
+Customers who purchased Hosting Mode in either version 1 or version 2 will get a free upgrade to Hosting Mode in version 3.
 
 ### Hosting Trial
 
@@ -141,7 +136,7 @@ Users have the opportunity to experience a hosting trial as part of the free app
 * connecting to players,
 * assigning players to teams,
 * playing music and sound effects, and
-* connecting to an Apple TV.
+* connecting to a TV.
 
 The only feature that is not available during the trial is the ability to purchase additional question sets. The trial ends after players buzz in twice. The trial mode can be used an unlimited number of times; each time it is used, the game ends after players buzz in twice. The In-App Purchase unlocks the ability to host games with no buzz-in limit an unlimited number of times.
 
@@ -151,8 +146,14 @@ To enter the Hosting Trial, select the "Host" option from the first screen in th
 
 Game Show Studio comes with a collection of question sets available for free. The free sets are designed to form the basis of a game with several rounds of play. Additional question set collections are available as an In-App Purchase.
 
-Built-in question sets are new to version 2.0. Prior to version 2.0, an external trivia source was needed (the app was solely a buzzer system with sound effects and an external display).
+## Responsive Host Screen
 
-## About the Developer
+A lot of thoughtful consideration went into finding the best way to give the host clear access to the most important controls while they host a game. On larger displays, more controls are available the host's screen at any given time. On smaller displays (such as on a phone), controls are grouped and are quickly accessible by changing which control pane is visible through one tap on a segmented control.
 
-Check out the [About Us](/about) page for more information.
+## Player Screen - Optimized for Buzzing In
+
+The goal for the players’ buzz in screen was to provide the biggest possible touch area for buzzers while still providing the players with options to leave the game or change their names. This meant that the configuration of the screen did not need to change with the device size; any device, regardless of size, will be filled with one or more buttons to tap to buzz in.
+
+The configuration does change slightly, though, based on how many players are using the device. If there are only one or two players on the device, the option buttons appear at the top of the screen. With three or four players, though, it’s probable that players would be gathered around the device, meaning that allowing the players to tap all the way to any edge (including the top) to buzz in would be ideal. In that case, the option buttons are located in the center of the screen, at the intersection of all of the buttons, where players would be unlikely to tap. This provides a great experience for players regardless of how many people are sharing a device.
+
+![buzz in screen examples with one through four players](/images/v2-0-0/buzz-in-responsive.png)
