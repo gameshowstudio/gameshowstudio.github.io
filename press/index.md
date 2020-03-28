@@ -12,10 +12,16 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 
 * [Demonstration Video](https://youtu.be/8EqQc93Jzaw){:target="_blank<!-- markup clean_ -->"} (1 minute, also embedded below)
 * [Game Show Studio Help Pages](/help)
-* [App Icon (1024 x 1024)](/images/press/gssIconRound1024.png){:target="_blank<!-- markup clean_ -->"}
-* [Logo (1024 x 312)](/images/press/logoWithText1024x312.jpg){:target="_blank<!-- markup clean_ -->"}
-* [Image of Multiple Devices Connected During Game in Progress](/images/v2-0-0/pad-host-and-players-w1980.png){:target="_blank<!-- markup clean_ -->"}
-* [Image of Host Connected to Apple TV](/images/v2-0-0/phone-host-and-tv-w900.png){:target="_blank<!-- markup clean_ -->"}
+* Logo and Icon
+    * [App Icon (1024 x 1024)](/images/press/gssIconRound1024.png){:target="_blank<!-- markup clean_ -->"}
+    * [Logo (1024 x 312)](/images/press/logoWithText1024x312.jpg){:target="_blank<!-- markup clean_ -->"}
+* Images
+    * Image of Multiple Devices Connected During Game in Progress
+        * [iPad](/images/press/host-and-players-pad.png){:target="_blank<!-- markup clean_ -->"}
+        * [iPhone](/images/press/host-and-players-phone.png){:target="_blank<!-- markup clean_ -->"}
+    * Image of Host Connected to Apple TV
+        * [iPad](/images/press/host-and-tv-pad.png){:target="_blank<!-- markup clean_ -->"}
+        * [iPhone](/images/press/host-and-tv-phone.png){:target="_blank<!-- markup clean_ -->"}
 * [App Update History](/updates)
 * [App Store Download Page](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8){:target="_blank<!-- markup clean_ -->"}
 
@@ -27,7 +33,7 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 
 Up to four players can play on each device that connects to a host’s device. This makes playing with many people easy, even in groups that include people who do not have an iOS device.
 
-![image of host and players](/images/v2-0-0/pad-host-and-players-w800.png)
+![image of host and players](/images/press/host-and-players-pad-w1200.png)
 
 ### Customizable Teams
 
@@ -36,7 +42,7 @@ The host can configure teams in many different ways, including teams without equ
 ### Customizable Rules Make for an Easy-to-Run Game
 
 {: .floatRight .smallerImageOnPhone}
-![host's round rules screen](/images/help/v2-0-0/round-pane-phone.png){:width="280px"}
+![host's round rules screen](/images/press/round-configuration.png){:width="280px"}
 
 The host has control over scoring and timing rules. Different sets of rules can be prepared before the game begins so that the host can easily put on a game that's played with various rounds, each with different timing and scoring rules.
 
@@ -44,7 +50,7 @@ Because there is always a set of active round rules, when a player buzzes in, th
 
 It is quick and easy to make scoring corrections any time during the game by tapping on any team's score. A host can quickly type in any score, or use the Quick Update buttons, which adjust the team's score based on the current round's "Points for Correct" and "Points for Incorrect" values.
 
-![scoring correction screen](/images/v2-0-0/scoring-correction.png){:width="220px"}
+![scoring correction screen](/images/press/scoring-correction.png){:width="220px"}
 
 *A portion of the screen that allows scoring corrections to be made when the Points for Correct is set to ten and Points for Incorrect is set to five. Note the Edit Score button, which allows for free-form score editing, as well.*
 
@@ -61,7 +67,7 @@ Sounds play automatically throughout the game, so that the host can easily creat
 
 The volume of these sounds can be adjusted on a per-effect basis in the Sound Pane, as shown here:
 
-![sound pane](/images/help/v2-0-0/sound-effects-correct-off.png){:width="200px"}
+![sound pane](/images/press/sound-effect-mixers.png){:width="300px"}
 
 There are also sounds and music that play automatically during the [Timed Round](/help/timedround).
 
@@ -75,7 +81,7 @@ Game Show Studio is designed to work with or without a TV, which, when connected
 
 Check out the [TV page](/help/tv) for more information.
 
-![image of host connected to a TV](/images/v2-0-0/phone-host-and-tv-w800.png)
+![image of host connected to a TV](/images/press/host-and-tv-pad-w1200.png)
 
 ## Use Cases
 
@@ -156,4 +162,4 @@ The goal for the players’ buzz in screen was to provide the biggest possible t
 
 The configuration does change slightly, though, based on how many players are using the device. If there are only one or two players on the device, the option buttons appear at the top of the screen. With three or four players, though, it’s probable that players would be gathered around the device, meaning that allowing the players to tap all the way to any edge (including the top) to buzz in would be ideal. In that case, the option buttons are located in the center of the screen, at the intersection of all of the buttons, where players would be unlikely to tap. This provides a great experience for players regardless of how many people are sharing a device.
 
-![buzz in screen examples with one through four players](/images/v2-0-0/buzz-in-responsive.png)
+![buzz in screen examples with one through four players](/images/press/players-1-2-3-4.png)

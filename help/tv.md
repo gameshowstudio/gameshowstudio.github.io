@@ -6,6 +6,8 @@ permalink: /help/tv/
 
 Game Show Studio allows the host to show a dynamic display of game information on a TV.
 
+![host connected to TV](/images/host-and-tv-pad-w1200.png)
+
 ## Connecting to a TV
 
 The host can connect their device to a TV using either of two ways:

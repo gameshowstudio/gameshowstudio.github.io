@@ -15,9 +15,13 @@ Game Show Studio makes you the host of your own trivia game show in your home, c
 
 Game Show Studio works by wirelessly connecting a host's device with one or more devices used by players.
 
+![host and players](/images/host-and-players-pad-w1200.png)
+
 * **One Host Device:** One device is used by the host, which can display trivia questions, player names, team scores, music controls, and more.
 * **One or More Player Devices:** Players use one or more devices to wirelessly connect to the host. One device can be used by up to four players to buzz in.
 * **TV Display (Optional):** Connect the host's device to a TV via HDMI or AirPlay to show the game board and play sound effects for an exciting and immersive game show experience. If a TV is not available, sounds and music play from the host's device.
+
+![host connected to TV](/images/host-and-tv-pad-w1200.png)
 
 # Free for Players
 

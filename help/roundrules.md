@@ -8,6 +8,9 @@ The Game Navigator menu allows you prepare games before it's time to play, so th
 
 ## Customizing Rounds
 
+{: .floatRight .smallerImageOnPhone}
+![host's round rules screen](/images/round-configuration.png){:width="280px"}
+
 A prepared game can have one or more rounds. Round rules can be customized as follows.
 
 ### Scoring and Timing
@@ -27,6 +30,9 @@ A prepared game can have one or more rounds. Round rules can be customized as fo
 There are two round style options in the "Round Style" section: Regular Round and [Timed Round](/help/timedround).
 
 ### Appearance for Television
+
+{: .floatRight .smallerImageOnPhone}
+![host's round rules screen](/images/round-configuration-tv.png){:width="280px"}
 
 The active round can affect what is seen on the [TV screen](/help/tv) and can be customized in the "Appearance for Television" section on the Round Rules screen.
 

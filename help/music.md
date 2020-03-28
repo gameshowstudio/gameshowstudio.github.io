@@ -16,6 +16,8 @@ Song collections have tracks that are intended for specific uses to help the hos
 * Underscore: Useful for providing a background track while the host is talking, for instance, when a new round is about to begin and the host is explaining the rules.
 * Sting: A short track designed for transitions.
 
+![music pane](/images/music-pane.png){:width="310px"}
+
 There are also ambient tracks available, suitable for playing at various times during your show, such as when you are introducing a new round.
 
 ## Volume and Mixers

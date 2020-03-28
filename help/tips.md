@@ -53,4 +53,7 @@ Keep in mind that a single tap of the Pause button causes songs to fade out. Use
 
 ## Turning Automatic Sounds On or Off
 
+{: .floatRight .smallerImageOnPhone}
+![sound pane](/images/press/sound-effect-mixers.png){:width="300px"}
+
 Game Show Studio automatically plays sounds whenever a player buzzes in, when a player answers correctly, when a player answers incorrectly, or when a timer expires. You can adjust the relative volume of each of these sound effects on the Sound Pane. If you don't want one or more of these sound effects to play, turn the volume control for that sound all the way down.

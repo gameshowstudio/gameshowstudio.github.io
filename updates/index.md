@@ -5,7 +5,7 @@ permalink: /updates/
 ---
 
 {: .floatRight .smallerImageOnPhone}
-![host screen](/images/host-x.png){:width="130px"}
+![host screen](/images/updates/2-3-1/host-x.png){:width="130px"}
 
 ## Version 2.3.1
 
@@ -16,7 +16,7 @@ Game Show Studio was updated to look and work great on iPhone X even before iPho
 ## Version 2.3
 
 {: .floatRight .smallerImageOnPhone }
-![tv-icon](/images/icon-tv.png){:width="171px"}
+![tv-icon](/images/updates/2-3/icon-tv.png){:width="171px"}
 
 Game Show Studio 2.3 includes an update to the TV screen so that the host can show the timer that counts down the number of seconds players have to buzz in after a question is read.
 
@@ -29,7 +29,7 @@ This version also includes a minor layout update.
 ## Version 2.2
 
 {: .floatRight .smallerImageOnPhone }
-![music-icon](/images/icon-music.png){:width="171px"}
+![music-icon](/images/updates/2-2/icon-music.png){:width="171px"}
 
 Version 2.2 includes multiple enhancements to the Music Pane, including:
 
@@ -40,14 +40,14 @@ Version 2.2 includes multiple enhancements to the Music Pane, including:
 ## Version 2.1
 
 {: .floatRight }
-![animation-of-new-3d-touch](/images/v2-0-0/3d-touch-team.gif)
+![animation-of-new-3d-touch](/images/updates/2-1/3d-touch-team.gif)
 
 New in Version 2.1: 3D Touch Support.
 
 * Quick Score Edit: Use a 3D Touch on a team to quickly access the free-form score edit panel. The Team Detail Screen is still available using a regular (non-3D) touch to get access to the [quick score updates](#easier-score-updates).
 * Home Screen Quick Actions: Now you can get access to Hosting Mode or Player Mode using a 3D Touch from the iPhone Home screen.
 
-![quick-actions](/images/v2-0-0/3d-touch-quick-actions.png){:width="250px"}
+![quick-actions](/images/updates/2-1/3d-touch-quick-actions.png){:width="250px"}
 
 ## Version 2.0
 
@@ -61,17 +61,17 @@ Game Show Studio now comes with questions to use in your trivia game. Choose fro
 
 There is a new Questions Pane on both iPhone and iPad. On iPhone, the pane fills the entire main area of the screen. Note that while there are players assigned to teams, the [Host Info View](#host-info-view) will be visible so that the scores and buzz-in status are always available to the host.
 
-![questions pane on iPhone](/images/v2-0-0/score-and-buzz-in-info-pane-scores-320.png){: width="250px" }
+![questions pane on iPhone](/images/updates/2-0/score-and-buzz-in-info-pane-scores-320.png){: width="250px" }
 
 On iPad, the Questions Pane is visible in conjunction with the Teams Panel, in addition to the A/V Panel:
 
-![questions pane on iPad](/images/v2-0-0/questions-pane-pad.png){: width="550px" }
+![questions pane on iPad](/images/updates/2-0/questions-pane-pad.png){: width="550px" }
 
 #### Question Set Editor
 
 It's easy to write your own question sets with Game Show Studio's built-in Question Set Editor:
 
-![edit-questions-iPad](/images/v2-0-0/edit-questions-pad.png){: width="550px" }
+![edit-questions-iPad](/images/updates/2-0/edit-questions-pad.png){: width="550px" }
 
 #### External Questions
 
@@ -104,33 +104,33 @@ Commonly used game controls are now easier to access than ever, and new controls
 
 On iPhone, only one of the six panes can be visible at a time. Notice that on all panes except the Teams Pane, the [Host Info View](#host-info-view) appears so that the host can know the scores and buzz-in status at all times:
 
-![host control panes](/images/v2-0-0/panes-all.png)
+![host control panes](/images/updates/2-0/panes-all.png)
 
 On iPad, there are three panes visible at all times. The Teams Pane is always visible. The A/V Panel allows the host to display the Music Pane, the Sound Pane, or the TV Pane. The Utility Panel allows the host to display the Questions Pane or the Round Rules Pane.
 
 In the following image, the Teams Pane is purple, the A/V Panel is yellow, and the Utility Panel is green:
 
-![host control panes](/images/v2-0-0/host-panels-highlighting-pad.png){: width="350px" }
+![host control panes](/images/updates/2-0/host-panels-highlighting-pad.png){: width="350px" }
 
 ### Host Info View
 
 On iPad, the teams and scores are always visible on the main host screen. On iPhone, other panes (like the Music Pane or the Questions Pane) take the place of the Teams Pane when they are visible. To make sure that the host always has access to relevant information, an informational view appears to show the current scores whenever there are players on teams and the Teams Pane is not visible. When a player buzzes in, this informational panel animates to show which player buzzed in. This way, the host can stay on a pane other than the Teams Pane (such as the Questions Pane) throughout the entire game. This informational view is pictured below, where you can see what it looks like in its default state, and in the state where a player has buzzed in.
 
-![score info pane](/images/v2-0-0/score-and-buzz-in-info-pane-both.png){:width="440px"}
+![score info pane](/images/updates/2-0/score-and-buzz-in-info-pane-both.png){:width="440px"}
 
 ### Easier Score Updates
 
 #### Quick Score Corrections
 
 {: .floatRight }
-![score corrections](/images/v2-0-0/scoring-correction.png){:width="230px"}
+![score corrections](/images/updates/2-0/scoring-correction.png){:width="230px"}
 
 New in version 2.0, the host can easily make scoring adjustments based on the round rules. Tapping a team's score will display an easy-to-use panel that offers one-touch access to common scoring changes (add or subtract correct points or incorrect points). Free-form score editing is also still available.
 
 #### Award or Penalize Players with Sound Anytime
 
 {: .floatRight }
-![score updates with sound](/images/v2-0-0/score-change-with-sound.png){:width="230px"}
+![score updates with sound](/images/updates/2-0/score-change-with-sound.png){:width="230px"}
 
 Tap on any team's score to reveal buttons to award or penalize a team and play the corresponding sound. This is great for asking on-the-fly questions or for questions that the host wants to let a team answer collaboratively.
 
@@ -146,13 +146,13 @@ Version 2.0 gives the host control over more aspects of the TV display, in addit
 
 The volume of the songs available on the Music Pane can be customized on a per-track basis.
 
-![music mixers](/images/v2-0-0/music-pane-mixers.png){:width="230px"}
+![music mixers](/images/updates/2-0/music-pane-mixers.png){:width="230px"}
 
 If the mixers don't appear, scroll to the bottom of the Music Pane and make sure that the "Show Volume Mixers" switch is in the on position.
 
 Sound effect volume can also be customized on a per-sound effect basis in the Sound Pane:
 
-![sound mixers](/images/v2-0-0/pane-sounds.png){:width="230px"}
+![sound mixers](/images/updates/2-0/pane-sounds.png){:width="230px"}
 
 ### Additional Updates
 
