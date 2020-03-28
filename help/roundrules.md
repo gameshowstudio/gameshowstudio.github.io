@@ -17,13 +17,13 @@ A prepared game can have one or more rounds. Round rules can be customized as fo
 
 **Scoring:**
 
-* **Points for Correct:** The number of points awarded when a player buzzes in and the host taps the "Correct" button.
-* **Points for Incorrect:** The number of points penalized when a player buzzes in and the host taps the "Incorrect" button. This is entered as a positive value and is subtracted for incorrect answers. If you don't want to penalize incorrect answers, enter 0 for this value.
+* **Points for Correct Answers:** The number of points awarded when a player buzzes in and the host taps the "Correct" button.
+* **Points for Incorrect Answers:** The number of points penalized when a player buzzes in and the host taps the "Incorrect" button. This is entered as a positive value and is subtracted for incorrect answers. If you don't want to penalize incorrect answers, enter 0 for this value.
 
 **Timing:**
 
-* **To Buzz In:** The number of seconds that will count down after the host taps the "Start Timer" button (which is intended to be tapped after reading a question). When this timer elapses, the buzzers will become disabled for a moment, and the host should move on to the next question. This is an optional feature; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game.
-* **To Answer:** The number of seconds that will count down after a player buzzes in. This timer will begin automatically after a player buzzes in. Once the timer expires, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
+* **Time To Buzz In:** The number of seconds that will count down after the host taps the "Start Timer" button (which is intended to be tapped after reading a question). When this timer elapses, the buzzers will become disabled for a moment, and the host should move on to the next question. This is an optional feature; the host can move on to the next question at his/her own pace instead of using this timer if that would be a better fit for the game.
+* **Time To Answer:** The number of seconds that will count down after a player buzzes in. This timer will begin automatically after a player buzzes in. Once the timer expires, nothing will happen automatically; the host must still indicate whether the player answered correctly or incorrectly.
 
 ### Round Style
 
