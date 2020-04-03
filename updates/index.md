@@ -8,8 +8,14 @@ permalink: /updates/
 {% for page in pages %}
 
 <div class="content-automerged-on-one-page">
-<h2>Version {{page.updateversion}} Updates</h2>
+<h2>Version {{page.updateversion}}</h2>
 <p>{{page.content}}</p>
 </div>
+
+<br>
+
+----
+
+<br>
 
 {% endfor %}
