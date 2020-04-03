@@ -118,6 +118,17 @@ Game Show Studio has enjoyed numerous [updates](/updates) during its lifetime, w
 
 <br>
 
+#### Version 3 Updates
+
+{% for page in pages %}
+{%- assign majorversion = page.updateversion | split: "." | first -%}
+{%- if majorversion == "3" -%}
+* [Version {{page.updateversion}}]({{page.permalink}}) · {{page.releasedate}}: {{page.updatesummary}}
+{% endif %}
+{%- endfor -%}
+
+<br>
+
 ## System Requirements
 
 Game Show Studio is designed for iPhone and iPad and supports devices running iOS 12 and above. Devices running older versions of iOS with a previous version of the app installed are still able to host and join games including devices running the current version of Game Show Studio.
