@@ -99,19 +99,24 @@ Game Show Studio uses mobile devices to bring people together in a meaningful wa
 
 Game Show Studio has enjoyed numerous [updates](/updates) during its lifetime, with new features that give hosts an increasing number of exciting ways to put on a game show.
 
-### Version 1 Updates
+#### Version 1 Updates
 * Version 1.0: January 30, 2015
 * Version 1.1: February 18, 2015 - Buzzer timing enhancement.
 * Version 1.2: March 12, 2015 - Ability to customize which sounds play during the game.
 * Version 1.3: April 6, 2015 - More reliable networking mode (see [Networking Details](#networking-details) below for details).
 * Version 1.4: May 10, 2015 - New song collection (Intrigue) and new ambient track (Suspension).
 
-### Version 2 Updates
-* [Version 2.0](/updates/2-0): June 5, 2016 - Version 2.0 was a huge release for Game Show Studio and it was packed with new features which are described [here](/updates/2-0).
-* [Version 2.1](/updates/2-1): June 13, 2016 - 3D Touch Support (within the app and Home screen Quick Actions). See an animation of 3D Touch in action in Game Show Studio [here](/updates/2-1).
-* [Version 2.2](/updates/2-2): July 12, 2016 - Music Pane Updates. Enhancements to the functionality and appearance of the music pane in addition to a new song collection called Arena.
-* [Version 2.3](/updates/2-3): November 2, 2016 - TV Updates. The host can show the timer that counts down the number of seconds players have to buzz in after a question is read on the external display.
-* [Version 2.3.1](/updates/2-3-1): October 27, 2017 - iPhone X Support. Game Show Studio was updated to look and work great on iPhone X even before iPhone X was available. This provided a great experience with Game Show Studio on the new device from day one.
+#### Version 2 Updates
+
+{% assign pages = site.pages | where: "layout", "update" | sort: "updateversion" %}
+{% for page in pages %}
+{%- assign majorversion = page.updateversion | split: "." | first -%}
+{%- if majorversion == "2" -%}
+* [Version {{page.updateversion}}]({{page.permalink}}) · {{page.releasedate}}: {{page.updatesummary}}
+{% endif %}
+{%- endfor -%}
+
+<br>
 
 ## System Requirements
 
