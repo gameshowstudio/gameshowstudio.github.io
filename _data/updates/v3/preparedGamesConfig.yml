@@ -1,38 +1,38 @@
 - title: Getting Started Quickly With a Freestyle Game
   paragraphs:
     - When entering Hosting Mode, a Freestyle Game will begin automatically. A Freestyle Game is intended to let the host begin a game with a default set of rules quickly and easily. There is only one round in a Freestyle Game. The host can change the rules of this round as desired.
-  image: /images/updates/3-0/host-screen-freestyle-game.png
+  image: /images/prepared-games/host-screen-freestyle-game.png
   image_alt_text: Freestyle Game
 - paragraphs:
     - "The default rules of a Freestyle Round are shown here:"
-  image: /images/updates/3-0/edit-screen-freestyle-round.png
+  image: /images/prepared-games/edit-screen-freestyle-round.png
   image_alt_text: Default Freestyle Round rules
   image_importance: high
 - title: Custom Prepared Games
   paragraphs:
-    - "Prepared Games consist of one or more rounds. Each round can have its own rules and question sets. The Edit Game Screen is shown here, illustrating a Prepared Game with three rounds, each with a different question set, and a Timed Round as the final round with different rules than the first two rounds:"
-  image: /images/updates/3-0/edit-screen-custom-game.png
+    - "Prepared Games consist of one or more rounds. Each round has its own rules and question sets. The Edit Game Screen is shown here, illustrating a Prepared Game with three rounds, each with a different question set, and a Timed Round as the final round with different rules than the first two rounds:"
+  image: /images/prepared-games/edit-screen-custom-game.png
   image_alt_text: Prepared Game
   image_vertical_alignment: bottom
   image_importance: high
 - title: Creating and Loading Prepared Games
   paragraphs:
     - "The host can create and load Prepared Games by using the Round Navigator, which is displayed by tapping the round or game name at the top of the screen:"
-  image: /images/updates/3-0/round-navigator.png
+  image: /images/prepared-games/round-navigator.png
   image_alt_text: Round navigator
   image_importance: high
 - paragraphs:
     - "Tapping the Load Prepared Game button on the Round Navigator presents an option to begin a Freestyle Game or any Prepared Game:"
-  image: /images/updates/3-0/select-game-screen.png
+  image: /images/prepared-games/select-game-screen.png
   image_alt_text: "Load Prepared Game Screen"
   image_importance: high
 - title: Navigating Between Rounds During a Prepared Game
   paragraphs:
-    - "When the host gets to the end of the questions in a round, it is easy to start the next round load a new question set. There is an option to show the round intro screen on the television to begin the next round, or to load the next round without showing the round intro. When the next round is loaded, the rules will be automatically updated and the question set(s) associated with the round will be loaded."
-  image: /images/updates/3-0/begin-next-round-question-pane.png
+    - "When the host gets to the end of the questions in a round, it is easy to start the next round or load a new question set. There is an option to show the round intro screen on the television to begin the next round (when <a href=\"/help/tv\">a TV is connected</a>), or to load the next round without showing the round intro. When the next round is loaded, the rules will automatically be updated and the question set(s) associated with the round will be loaded."
+  image: /images/prepared-games/begin-next-round-question-pane.png
   image_alt_text: Options for beginning the next round at the end of the question sets
 - paragraphs:
     - "The host can also load the next round (or any other round in the game) from the Round Navigator, which is displayed by tapping the round or game name at the top of the screen:"
-  image: /images/updates/3-0/round-navigator-custom-game.png
+  image: /images/prepared-games/round-navigator-custom-game.png
   image_alt_text: Loading the next round from the Round Navigator
   image_importance: high

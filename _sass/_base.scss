@@ -130,16 +130,6 @@ blockquote {
     }
 }
 
-
-/**
- * Tables
- */
- th, td {
-     padding: 8px;
- }
-
- 
-
 /**
  * Code formatting
  */
@@ -203,6 +193,12 @@ pre {
     }
 }
 
+.columnForTextInTableWithOtherColumnAsAnImage {
+    width: 65%;
+    @media screen and (min-width: 600px) {
+        width: 55%;
+    }
+}
 
 
 /**
