@@ -8,7 +8,7 @@ permalink: /help/
 
 Learn how easy it is to get started with Game Show Studio by watching this video:
 
-{% include youtube-player.html id="tKtZ-UBI6ls" %}
+{% include youtube-player.html id="Jgqdg-wpLzs" %}
 
 More information about starting a game can be found on the [Finding Players page](/help/findingplayers).
 
