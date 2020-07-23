@@ -18,10 +18,10 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$text-color:                 #111;
-$brand-color:                #348CCD;
+$text-color:                 #FFFFFF; // #111 for light mode
+$brand-color:                #40C9E8; // #348CCD for light mode
 $blue-glow:                  #40C9E8;
-$background-color:           #fdfdfd;
+$background-color:           #1C1C1C; // #fdfdfd for light mode
 
 // Width of the content area
 $content-width:    800px;
