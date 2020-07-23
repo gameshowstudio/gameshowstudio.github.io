@@ -25,7 +25,7 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 * [App Update History](/updates)
 * [App Store Download Page](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8){:target="_blank<!-- markup clean_ -->"}
 
-{% include youtube-player.html id="Jgqdg-wpLzs" %}
+{% include youtube-player.html id="Q4PLD56Nly4" %}
 
 ## Standout Features
 

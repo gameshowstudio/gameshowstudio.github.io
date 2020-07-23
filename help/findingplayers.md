@@ -8,7 +8,7 @@ To begin a game with Game Show Studio, you will two or more iOS devices (iPhone,
 
 The following video shows how to connect to players and begin a game:
 
-{% include youtube-player.html id="Jgqdg-wpLzs" %}
+{% include youtube-player.html id="Q4PLD56Nly4" %}
 
 ## Finding Players Later in the Game
 
