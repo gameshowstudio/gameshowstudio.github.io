@@ -23,12 +23,12 @@ Game Show Studio turns your iPhone or iPad devices into a wireless buzzer system
 
 ![host connected to TV](/images/host-and-tv-pad-w1200.png)
 
-# Free for Players
+# Hosting a Game Is Free For a Limited Time
 
 {: .floatRight .smallerImageOnPhone}
 ![game-show-studio-app-icon](/images/gss-rounded-icon-200.png)
 
-Downloading Game Show Studio is free, and players can join games for free. Hosting a full game requires an In-App Purchase. Hosts can try all of the hosting features before purchasing, including connecting to players, playing sounds and music, allowing players to buzz in, and connecting to a TV.
+Downloading Game Show Studio is free, and players can join games for free. For a limited time, all features, including hosting, are available for free. Learn more [here](/hostingIsFree).
 
 [![download on the app store](images/appstorebadge.svg)](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8)
 
