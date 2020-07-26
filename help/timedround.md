@@ -9,12 +9,19 @@ A timed round is an exciting way to end your game. When you begin a timed round,
 1. **Title Card and Intro Song:** When the intro sequence begins, the [round's intro song](/help/roundrules/#appearance-for-television) plays and the [round's title card](/help/roundrules/#appearance-for-television) is displayed on the TV, [if one is connected](/help/tv#connecting-to-a-tv). 
    * *Suggested Host Script:* Immediately before this step, announce, "It's time for the final round of the game," or, "It's time for [round name]."
    * *Rules Suggestion:* "Lightning Round" is an excellent choice for the name of the last round. Use Lightning as the choice for Television Display Style and "Electrify Sting" as the round's intro song.
+
+   ![timed round title card](/images/lightning-round-title-card.png){:width="450px"}
+
 2. **Title Card Disappears and Intro Song Fades:** After dismissing the title card, suspenseful background sound will continue to play.
    * *Suggested host script:* "In this round, correct answers are worth [x] points and incorrect answers will cost your team [y] points. You will have [z] seconds to answer after you buzz in." The round rules will be displayed on the host's device during this step.
    * *Rules Suggestion:* During a timed round, it is generally good to penalize incorrect answers, and to use relatively short timers (allowing two or three seconds to answer after buzzing in), to keep the round fast paced.
+
 3. **Put Time on the Clock:** A sound plays as a timer graphic is displayed on the TV, to count down the amount of time the timed round will take.
    * *Suggested host script:* Immediately before putting the time on the clock, say "Let's put [x] seconds on the clock!". Point at the TV screen with one hand as you use the other to tap your device to put the time on the clock.
    * *Rules Suggestion:* Try a ninety-second timed round.
+
+   ![timed round clock on screen](/images/lightning-round-clock-on-screen.png){:width="450px"}
+
 4. **Begin Timed Round:** The final step is beginning the timed round. When selected, a sound effect will play, then the timer and suspenseful music will begin.
     * *Suggested host script:* Immediately after the timer is on the clock, say, "The final round begins now," or "The [round name] begins now." Wait for the sound effect, then, as soon as the music begins, start reading the questions.
 
