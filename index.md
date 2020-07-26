@@ -11,9 +11,9 @@ Game Show Studio makes you the host of your own trivia game show in your home, c
 
 [![download on the app store](images/appstorebadge.svg)](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8)
 
-# How It Works
+# Wireless Trivia Buzzers
 
-Game Show Studio works by wirelessly connecting a host's device with one or more devices used by players.
+Game Show Studio turns your iPhone or iPad devices into a wireless buzzer system by allowing you to connect a host's device with one or more devices to be used by players.
 
 ![host and players](/images/host-and-players-pad-w1200.png)
 
