@@ -19,6 +19,7 @@ Game Show Studio is full of features that help you create an immersive trivia ex
 * [Finding Players](/help/findingplayers)
 * [Music](/help/music)
 * [TV Display](/help/tv)
+* [Prepared Games](/help/preparedgames)
 * [Round Rules](/help/roundrules)
 * [Timed Round](/help/timedround)
 * [Tips & Tricks for Running a Great Game](/help/tips)
