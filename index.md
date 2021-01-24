@@ -13,9 +13,11 @@ Game Show Studio makes you the host of your own trivia game show in your home, c
 
 # Wireless Trivia Buzzers
 
-Game Show Studio turns your iPhone or iPad devices into a wireless buzzer system by allowing you to connect a host's device with one or more devices to be used by players.
+Game Show Studio turns iPhone and iPad devices into wireless buzzers.
 
 ![host and players](/images/host-and-players-pad-w1200.png)
+
+iPhone and iPad devices connect wirelessly to facilitate gameplay as follows:
 
 * **One Host Device:** One device is used by the host, which can display trivia questions, player names, team scores, music controls, and more.
 * **One or More Player Devices:** Players use one or more devices to wirelessly connect to the host. One device can be used by up to four players to buzz in.
