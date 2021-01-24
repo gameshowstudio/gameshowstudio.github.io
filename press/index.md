@@ -145,24 +145,13 @@ For more technical information about how wireless connections work on Game Show 
 
 ## Pricing
 
-Downloading Game Show Studio is free. Joining a game as a player is free. A $7.99 (US) In-App Purchase is required to host a full game. This pricing model was selected because we wanted to make it easy for a host to get a lot of people interested in playing a game (it is a low barrier to ask people to download a free app). This follows the spirit of a board game, where only one person needs to make the purchase for many people to enjoy it. We hope that users will compare the cost and value of this app to that of a board game.
+At the time of the release of Version 3.0, the world is in the midst of a pandemic, which significantly limits the number of contexts where Game Show Studio can be used. At the same time, there are groups of people gathered in the same place already (such as people living together), and Game Show Studio is a great way to spend time together when that can be done safely. We want to make it easy for people who are already safely in the same place to use [this new and exciting version of Game Show Studio](/updates/3-0) together, so for a limited time, we are pleased to make Hosting Mode and all question sets available to all users without requiring an in-app purchase.
+
+Normally, downloading Game Show Studio is free. Joining a game as a player is free. A $7.99 (US) In-App Purchase is required to host a full game. This pricing model was selected because we wanted to make it easy for a host to get a lot of people interested in playing a game (it is a low barrier to ask people to download a free app). This follows the spirit of a board game, where only one person needs to make the purchase for many people to enjoy it. We hope that users will compare the cost and value of this app to that of a board game.
 
 ### Free Host Mode Upgrades from Any Previous Version to Version 3
 
 Customers who purchased Hosting Mode in either version 1 or version 2 will get a free upgrade to Hosting Mode in version 3.
-
-### Hosting Trial
-
-Users have the opportunity to experience a hosting trial as part of the free app download. All hosting functionality is available during this trial, including:
-
-* connecting to players,
-* assigning players to teams,
-* playing music and sound effects, and
-* connecting to a TV.
-
-The only feature that is not available during the trial is the ability to purchase additional question sets. The trial ends after players buzz in twice. The trial mode can be used an unlimited number of times; each time it is used, the game ends after players buzz in twice. The In-App Purchase unlocks the ability to host games with no buzz-in limit an unlimited number of times.
-
-To enter the Hosting Trial, select the "Host" option from the first screen in the app.
 
 ### Question Sets
 
