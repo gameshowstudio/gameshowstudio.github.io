@@ -39,12 +39,12 @@ Up to four players can play on each device that connects to a host’s device. T
 
 The host can configure teams in many different ways, including teams without equal numbers of players. Teams are not tied to which players may be sharing a device; two players can buzz in from the same device, but be on different teams.
 
-### Customizable Rules Make for an Easy-to-Run Game
+### Customizable Rules Make It Easy to Run a Game
 
 {: .floatRight .smallerImageOnPhone}
 ![host's round rules screen](/images/press/round-configuration.png){:width="280px"}
 
-The host has control over scoring and timing rules. Different sets of rules can be prepared before the game begins so that the host can easily put on a game that's played with various rounds, each with different timing and scoring rules.
+The host has control over scoring and timing rules. Different sets of rules can be prepared before the game begins so that the host can easily put on a game that is played with various rounds, each with different timing and scoring rules.
 
 Because there is always a set of active round rules, when a player buzzes in, the only action necessary from the host is to tap whether the player answered correctly or incorrectly. The score will automatically be updated based on the host’s choice, meaning that the host can concentrate on running an exciting game without worrying about the math. The host also has the option to clear the buzzers without adjusting the score to quickly remedy inadvertent taps from overzealous players.
 
@@ -58,7 +58,7 @@ For more information, check out the [Round Rules page](/help/roundrules).
 
 ### Music and Sound Effects
 
-Sounds play automatically throughout the game, so that the host can easily create an immersive game show feel. Sounds are played automatically when:
+Sounds play automatically throughout the game, so that the host can easily create an immersive game show experience. Sounds are played automatically when:
 
 * a player buzzes in,
 * a player answers a question correctly,
@@ -69,15 +69,15 @@ The volume of these sounds can be adjusted on a per-effect basis in the Sound Pa
 
 ![sound pane](/images/press/sound-effect-mixers.png){:width="300px"}
 
-There are also sounds and music that play automatically during the [Timed Round](/help/timedround).
+Sound effects and music also play automatically during the [Timed Round](/help/timedround).
 
-For more information about music that's available to be played in the app, check out the [Music page](/help/music). Music is also played when certain screens are displayed on the TV, as described on the [TV page](/help/tv). Sets of round rules also have music associated with them, as described on the [Round Rules page](/help/roundrules).
+For more information about the music that is available to play in the app, check out the [Music page](/help/music). Music is also played when certain screens are displayed on the TV, such as title cards. Sets of round rules also have music associated with them, as described on the [Round Rules page](/help/roundrules).
 
-All of the music and sound effects in the app were created by the developer and his brother. These tracks help to provide an immersive game show feeling while playing.
+All of the music and sound effects in the app were created by the developer and his brother.
 
 ### TV Integration
 
-Game Show Studio is designed to work with or without a TV, which, when connected, displays scores and timers, adding to the “Studio” feel. When connected to a TV, sound effects and music are routed to the TV. All of the necessary information to host a game is displayed on the host’s screen, making the additional display optional.
+Game Show Studio is designed to work with or without a TV, which, when connected, displays scores and timers, adding to the “Studio” experience. When connected to a TV, sound effects and music are played from the TV. All of the necessary information to host a game is displayed on the host’s screen, making the additional display optional.
 
 Check out the [TV page](/help/tv) for more information.
 
@@ -167,6 +167,8 @@ To enter the Hosting Trial, select the "Host" option from the first screen in th
 ### Question Sets
 
 Game Show Studio comes with a collection of question sets available for free. The free sets are designed to form the basis of a game with several rounds of play. Additional question set collections are available as an In-App Purchase.
+
+Hosts can also use custom questions.
 
 ## Responsive Host Screen
 
