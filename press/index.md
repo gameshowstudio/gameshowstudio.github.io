@@ -10,7 +10,7 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
 
 ## Resources
 
-* [Demonstration Video](https://youtu.be/8EqQc93Jzaw){:target="_blank<!-- markup clean_ -->"} (1 minute, also embedded below)
+* [Demonstration Video](https://youtu.be/Q4PLD56Nly4){:target="_blank<!-- markup clean_ -->"} (1 minute, also embedded below)
 * [Game Show Studio Help Pages](/help)
 * Logo and Icon
     * [App Icon (1024 x 1024)](/images/press/gssIconRound1024.png){:target="_blank<!-- markup clean_ -->"}
