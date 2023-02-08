@@ -13,7 +13,7 @@ A timed round is an exciting way to end your game. When you begin a timed round,
 
    ![timed round title card](/images/lightning-round-title-card.png){:width="450px"}
 
-2. **Title Card Disappears and Intro Song Fades:** After dismissing the title card, suspenseful background sound will continue to play.
+2. **Title Card Disappears and Intro Song Fades:** After dismissing the title card, a suspenseful background sound will continue to play.
    * *Suggested host script:* "In this round, correct answers are worth [x] points and incorrect answers will cost your team [y] points. You will have [z] seconds to answer after you buzz in." The round rules will be displayed on the host's device during this step.
    * *Rules Suggestion:* During a timed round, it is generally good to penalize incorrect answers, and to use relatively short timers (allowing two or three seconds to answer after buzzing in), to keep the round fast paced.
    * *Television Display (if connected):* The title card disappears, to show the game board again.
