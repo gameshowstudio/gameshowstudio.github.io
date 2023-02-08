@@ -35,4 +35,4 @@ The host can prepare a game before getting everyone together to play, so that ho
     {% endfor%}
 </table>
 
-With Prepared Games, hosts can run an exciting and fast-paced game show easier than ever.
+Prepared Games make it possible to create an immersive seamless experience for the players in a game with several rounds of play.
