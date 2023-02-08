@@ -24,12 +24,3 @@ If you have trouble connecting:
     * On the host's Find Players screen, tap the "Reset Connection" button.
     * On the players' "Not Connected to Host" screen, tap the "Reset Connection" button (which appears after several seconds).
 * If none of the options listed above work, try to [force Game Show Studio to quit](https://support.apple.com/en-us/HT201330){:target="_blank<!-- markup clean_ -->"}, then relaunch it on all devices (host and players).
-
-## About the Networking Modes
-
-Host devices that support Bluetooth Low Energy (iPhone 4s or newer, iPad 3rd generation or newer, iPod Touch 5th generation or newer) can select between two networking modes:
-
-* Reliable Networking Mode: This mode uses Bluetooth Low Energy to connect devices, which maintains connections better and usually provides faster device-to-device communication. This mode requires all player devices to support Bluetooth Low Energy.
-* Compatibility Mode: This mode uses a combination of Bluetooth and Wi-Fi to connect devices, and allows older devices (such as iPad 2 devices) to participate in games.
-
-The host can switch to Compatibility Mode by tapping "Don't See Who You're Looking For?" on the Find Players screen. If the host is already in Compatibility Mode, there will be an option to "Switch Back to Reliable Networking Mode" instead. If the host's device does not support Bluetooth Low Energy, it will be in Compatibility Mode by default, and there will not be an option to change it.
