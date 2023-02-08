@@ -13,7 +13,7 @@ Game Show Studio allows the host to show a dynamic display of game information o
 The host can connect their device to a TV using either of two ways:
 
 * AirPlay: Use AirPlay from the host's device to show the television display. Learn more about how to use AirPlay on [Apple's web site](https://support.apple.com/en-us/HT204289){:target="_blank<!-- markup clean_ -->"}.
-* HDMI: Use an HDMI cable (with one end or an adapter that is compatible with your iOS device) to connect the host's device to a television. The screen should automatically connect once the HDMI cable is connected to both the iOS device and the TV.
+* HDMI: Use a compatible cable to connect the host's device to a television. The screen should automatically connect once the HDMI cable is connected to both the iOS device and the TV.
 
 ## Round Rules Integration
 
