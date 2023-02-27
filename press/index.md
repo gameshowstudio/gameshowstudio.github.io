@@ -8,9 +8,11 @@ redirect_from: "/home/press"
 
 Thanks for your interest in Game Show Studio! This Press Kit gives additional information and resources that are not listed on the [home page](/). If you would like additional information, please feel free to contact the developer at [tim@gameshowstudioapp.com](mailto:tim@gameshowstudioapp.com).
 
+{% include youtube-player.html id="Q4PLD56Nly4" %}
+
 ## Resources
 
-* [Demonstration Video](https://youtu.be/Q4PLD56Nly4){:target="_blank<!-- markup clean_ -->"} (1 minute, also embedded below)
+* [Demonstration Video](https://youtu.be/Q4PLD56Nly4){:target="_blank<!-- markup clean_ -->"} (1 minute, also embedded above)
 * [Game Show Studio Help Pages](/help)
 * Logo and Icon
     * [App Icon (1024 x 1024)](/images/press/gssIconRound1024.png){:target="_blank<!-- markup clean_ -->"}
@@ -24,8 +26,6 @@ Thanks for your interest in Game Show Studio! This Press Kit gives additional in
         * [iPhone](/images/press/host-and-tv-phone.png){:target="_blank<!-- markup clean_ -->"}
 * [App Update History](/updates)
 * [App Store Download Page](https://itunes.apple.com/us/app/game-show-studio/id924249807?ls=1&mt=8){:target="_blank<!-- markup clean_ -->"}
-
-{% include youtube-player.html id="Q4PLD56Nly4" %}
 
 ## Standout Features
 
